@@ -88,3 +88,10 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# Model outputs and results:
+wandb/
+results/
+cache_dir/
+runs/
+outputs/

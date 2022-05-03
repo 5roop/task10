@@ -44,12 +44,13 @@ def train_and_eval(model_name, num_epoch, batch_size):
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer, return_tensors="pt")
     from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=3)
-    
+    import numpy as np
     training_args = TrainingArguments(
     output_dir="./results",
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
     num_train_epochs=8,
+    seed=np.random.randint(1000)
     )
 
     trainer = Trainer(
@@ -77,18 +78,19 @@ def train_and_eval(model_name, num_epoch, batch_size):
     f1 = f1_score(y_true, y_pred, labels = label_set, average="macro")
     acc = accuracy_score(y_true, y_pred )
     cm = confusion_matrix(y_true, y_pred, labels=label_set)
-
+    del model
     with open("results.csv", "a") as f:
-        f.write(f"{model_name},{batch_size},{num_epoch},{f1},{y_true},{y_pred}\n")
+        f.write(f"{model_name},{batch_size},{num_epoch},{f1},\"{y_true}\",\"{y_pred}\"\n")
 
 models = ["xlm-roberta-base", "xlm-roberta-large", "classla/bcms-bertic", "EMBEDDIA/crosloengual-bert"]
-epochs = [3,5,9,15,30,60]
+epochs = [1,2,3,4,5,6,7,9,15,30,60]
 batch_sizes = [8,16]
 
-for model in models:
+for current_model in models:
     for batch_size in batch_sizes:
         for epoch in epochs:
-            train_and_eval(model, epoch, batch_size)
+            for i in range(10):
+                train_and_eval(current_model, epoch, batch_size)
 
     
 

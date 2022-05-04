@@ -4,3 +4,6 @@ xlm-roberta-large,xlmroberta,3,8,0.8232523366330771
 EMBEDDIA/crosloengual-bert,bert,3,8,0.7994590939824205
 classla/bcms-bertic,electra,3,8,0.8137590595217713
 xlm-roberta-base,xlmroberta,3,16,0.7645765494976482
+xlm-roberta-base,xlmroberta,3,8,0.778123841305154
+xlm-roberta-base,xlmroberta,3,8,0.8038795585965396
+xlm-roberta-large,xlmroberta,3,8,0.795502289924333

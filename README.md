@@ -15,3 +15,10 @@ The first iteration of the dataset is prepared and available [here](bcm_polsent.
 
 * Sentiment label distribution should be twice as important as label distribution, perform another split
 * Hyperparams: keep batch size constant (8 AND 16), learning rate default, check the optimal epoch number.
+
+
+# Addendum 2022-05-04T10:36:07
+
+Hyperparameters identified so far:
+* Fastext: epoch: 16, macroF1: 0.59
+* Fastext with embeddings: epoch: 5, macroF1: 0.66

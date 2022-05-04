@@ -22,3 +22,11 @@ The first iteration of the dataset is prepared and available [here](bcm_polsent.
 Hyperparameters identified so far:
 * Fastext: epoch: 16, macroF1: 0.59
 * Fastext with embeddings: epoch: 5, macroF1: 0.66
+
+
+Performance on test:
+* Fasttext:  macro f1 on test: 0.4715 +/- 0.0090, sample of 50
+* Fasttext with embeddings: macro f1 with embeddings on test: 0.6312 +/- 0.0043, sample of 10
+
+
+

@@ -28,5 +28,13 @@ Performance on test:
 * Fasttext:  macro f1 on test: 0.4715 +/- 0.0090, sample of 50
 * Fasttext with embeddings: macro f1 with embeddings on test: 0.6312 +/- 0.0043, sample of 10
 
+# Addendum 2022-05-04T16:06:52
 
+Supposedly optimal hyperparameters:
+
+| model_name                 | model_type   |   epochs |   batch_size |   macroF1 |
+|:---------------------------|:-------------|---------:|-------------:|----------:|
+| EMBEDDIA/crosloengual-bert | bert         |       15 |            8 |  0.848155 |
+| classla/bcms-bertic        | electra      |       15 |            8 |  0.856857 |
+| xlm-roberta-base           | xlmroberta   |       15 |            8 |  0.82363  |
 

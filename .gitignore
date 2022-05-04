@@ -95,3 +95,4 @@ results/
 cache_dir/
 runs/
 outputs/
+fasttext_embeddings/

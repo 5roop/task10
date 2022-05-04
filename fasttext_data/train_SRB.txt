@@ -1,0 +1,881 @@
+__label__Positive Potomci Vojvode Mišica, sav narod slavne Kolubare, pamtice to i umece da ceni.
+__label__Negative Ko će sve to da razmota. (poslanik iz sale dobacuje: ko je tebe napao Janjiću) Tvoja sestra.
+__label__Neutral Što se tiče Iraka, draga moja gospodo ... (Predsednik: Gospodine Nikoliću, prošlo je 3 minuta i 39 sekundi.
+__label__Neutral Kada smo dobili mišljenje Odbora, za izvestioca je određen Živica Predojeva, predsednik Odbora.
+__label__Neutral Ovde se radi o broju predmeta predatih u toku godine, kao i o broju rešenih predmeta.
+__label__Negative Nešto se ovde iza brega valja, a šta, videćmo u praksi kada ovaj zakon budete počeli da primenjujete.
+__label__Negative Mi do dana današnjeg nismo imali propise koji bi takvu materiju regulisali.
+__label__Positive I, onda kaže - da, to je po zakonu i ti ljudi su moralni, samo žele da realizuju ono što su obećali 2000. godine i 1999. godine.
+__label__Positive Mislim da će Srbija u ovoj zajedničkoj državi biti dobro sačuvana, njen interes će biti dobro sačuvan, mnogo bolje nego i u jednoj do sada zajednici u kojoj je bila.
+__label__Positive Dame i gospodo narodni poslanici, može i braćo i sestre, izdvojio sam mišljenje na Odboru za zdravlje, kada je ponošen izveštaj od strane Ministarstva zdravlja.
+__label__Negative Osnovni problem ovog zakona koji predlažete jeste u tome što se pomoć daje svim optuženima koji se nalaze u pritvoru haškog tribunala.
+__label__Neutral Na sednici, da biste mogli da razmatrate neki zakon, on dolazi, i pre toga se diskutovalo po odborima.
+__label__Negative Dame i gospodo narodni poslanici, čuli smo kratko izlaganje ministra prosvete, koji negde pobeže, verovatno ima preča posla, ako neće ići na otvaranje svetskog prvenstva.
+__label__Positive Svakako, to su institucije koje imaju stručne, a ja sam predložio naučne kadrove, koji mogu dati relevantna tumačenja rezultata tih ispitivanja.
+__label__Negative Preveliki uticaj izvršne vlasti na sudsku i zakonodavnu vlast, i preveliki uticaj tajkunskih struktura pomalo na izvršnu vlast, i to u periodu od druge polovine devedesetih godina do danas.
+__label__Neutral Onu ''žutu'' tačku, pa, jeste.
+__label__Positive Vlada Republike Srbije je tada obećala svesrdnu pomoć pre svega u izgradnji kuća, sanaciji oštećenih kuća, ali i u sanaciji infrastrukturnih objekata.
+__label__Positive Da li taj dobro, svesno ili nesvesno, misli ovoj državi?
+__label__Negative Osećaju se previše moćnima i jakima i izazivaju vas, idu ivicom, a vi ne reagujete.
+__label__Positive Aktuelni Ustav Republike Srbije baštini jedno od osnovnih demokratskih načela, a to je načelo da se dostignuti stepeni sloboda i prava građana ne može sužavati novim pravnim aktima.
+__label__Positive Hvala bogu, naši ljudi su, pogotovo na Zapadu, patriotski opredeljeni i mnogo bolje poznaju i šta znače evropske integracije i evropske vrednosti.
+__label__Positive Nadam se da u ministarstvu za rudarstvo postoji razumevanje za ovu inicijativu.
+__label__Neutral Jedino želim da upozorim narodne poslanike i srpsku javnost da vode računa da li je procenat zaračunavanja na ukupni prihod ili na ostvareni profit.
+__label__Neutral Ugovorene obaveze za sprovođenje ovog programa kažu – da se usluga naplaćuje, sam program mera se ne naplaćuje, dok se usluga naplaćuje.
+__label__Negative Mi smo nedavno imali da je državni revizor otkrio brojne nepravilnosti u nekim ministarstvima u vladi republike srbije u korišćenju budžetskih sredstava.
+__label__Negative U prethodnom zakonu nema nigde sobe bez plafona ako soba ima plafon, to ne postoji u prethodnom zakonu, ovde ima.
+__label__Negative Dakle, greška je bila – zašto se sudijama nije dalo pravo na žalbu?
+__label__Positive Još jednom izražavam zadovoljstvo zbog konstruktivnog doprinosa ovoj stvari i zbog lepe i dobre saradnje.
+__label__Negative Ne može vlada da donosi odluku kome će otpisivati dug, kome neće i da za to traži saglasnost narodne skupštine.
+__label__Neutral U načelnoj raspravi se praktično ovaj član pretvorio u raspravu o kvalitetu zdravstvenog sistema.
+__label__Negative U slučaju agencije je to bilo još komplikovanije, kao što znate.
+__label__Neutral U konkretnom slučaju novac koji ide sa razdela Ministarstva pravde Upravi za izvršenje zatvorskih sankcija koja je sastavni deo Ministarstva pravde.
+__label__Positive Poštovani predsedavajući, poštovani ministre, dame i gospodo narodni poslanici, drago nam je da je gospodin krstić tu.
+__label__Negative Međutim, naša privreda, činjenica je, da se nalazi u jako teškom stanju i nisu potrebne nikakve analize da bi se to potvrdilo i da bi mi to sami konstatovali.
+__label__Neutral Primeri iz sveta koje imamo, pre svega u kontinentalnom delu Evrope nam pokazuju kakvi su potencijali, kakva je snaga i šta stoji sve unutar komorskog sistema svake od tih zemalja.
+__label__Positive Inače se slažem, gospodine đorđe, sa onim što ste vi rekli, vama se obraćam.
+__label__Positive Maja Gojković je neko ko ima iza sebe veoma ozbiljnu i zavidnu političku karijeru.
+__label__Negative Ako vi ne znate razliku, onda predsedavajući mora da zna razliku i da prestane da vređa dostojanstvo narodne skupštine.
+__label__Neutral Dve su ključne tačke izmene i dopune Zakona o policiji.
+__label__Negative Nama je to cilj, da razvijemo priču oko zadrugarstva, ali tu imamo mnogo problema, mnogo naroda je prevareno sa zadrugama 90-ih godina, krajem 80-ih.
+__label__Negative Ne treba puno mudrosti da bi se to smislio, znate.
+__label__Negative Tako da, nemojmo dozvoliti da sutrašnje obrazovanje dece, njihova edukacija zavisi od materijalne situacije roditelja.
+__label__Neutral Sada prelazim do kraja svog govora na jednu temu koja je mnogo važna, samo je jedna od ovih 20 tačaka, za ostale prosto neću imati vremena.
+__label__Negative Znači, kad preduzeća ostvari zbog negativnih kursnih razlika gubitaka, ono mora da ga prikaže i ono je u gubitku.
+__label__Negative Ovim zakonskim rešenjem građanima srbije preti opasnost da će u slučaju moždane smrti njihovi organi biti presađeni bez njihove volje.
+__label__Positive Što budemo bili spremni za rat, to će nam rat biti dalji, a mir bliži.
+__label__Neutral Kada govorimo o prosečnoj plati u javnom sektoru, u junu ove godine bila je oko 59.000.
+__label__Negative To što njega kritikuju, pa nikada lepota i bogatstvo nisu išli zajedno.
+__label__Negative Poštovani potpredsedniče, voker je radio za armiju hondurasa koja je formirala tzv. desetine smrti, što su smakle oko 200 politički sumnjivih studenata i radničkih vođa.
+__label__Negative Mi ne očekujemo od Zorane ništa dobro i ništa pametno.
+__label__Positive Kada govorimo o podsticajima za ubrzanje reformskih procesa unašoj Republici, treba podsetiti da je u ovoj godini planirano realno smanjenje javne potrošnje, odnosno smanjenje ucešca javne potrošnje u društvenom proizvodu.
+__label__Negative Još ocekujem neki rascep u njegovoj koaliciji, u njegovoj stranci, pa možda sutra i 84 mandata da imamo.
+__label__Positive Efekti obnove pokazali su i nama i svetu naše privredne potencijale i naše mogucnosti.
+__label__Positive Moramo stvoriti sistem slobodnog i nezavisnog sudstva i moramo podići taj stub, koji čini slobodno i nezavisno sudstvo ne samo praznom retorikom i ne samo sporadičnim izborom.
+__label__Neutral Predloga zakona, predlažem da se tačka 3. menja i da glasi, da pored svih vrsta hleba, mleka, u članu se još dodaje: i mlečnih proizvoda kratkotrajne upotrebe.
+__label__Negative Uhapsili ste 11 radikala, izbacili ste predsednika Srpske radikalne stranke, uhapsili ste predsednika Gradskog odbora Srpske radikalne stranke zato što je lepio nalepnice gde piše - DOS je najgori.
+__label__Positive Socijalisti predlažu da to bude više nego što ste predložili, jer smatramo da je to ispravnije i ne treba zbog toga da negodujete.
+__label__Negative Greška je što smo utvrdili topli obrok kao zaradu, greška je što smo terenski dodatak utvrdili kao zaradu.
+__label__Neutral Dame i gospoto narodni poslanici, pred nama je još jedan zakon koji je podnela Vlada Republike Skupštini na usvajanje.
+__label__Negative To je potrebno jer je patologija bolesti nakon rata proširena, naročito na duševne bolesnike, kao i razne kancerogene bolesti.
+__label__Negative Uvaženi prethodnik za ovom govornicom je dozvolio sebi da niz pogrdnih reči kaže o sps-u i o njenim članovima, a sada se poziva na poslovnik i traži da njega niko ne vređa.
+__label__Neutral Aminovao je zato što je on ministar i lokalne samouprave, tako da onaj spisak Vlade na Kosovu on predlaže i sada je to predlog Vlade Srbije.
+__label__Positive Slavi se kao sećanje na Kosovsku bitku, ali prevazilazi okvire jedne bitke, jednog događaja, i ima odgovarajuće univerzalno značenje praznika posvećenog svima palim za otadžbinu kroz dugu istoriju srpskog naroda.
+__label__Negative To je Vidovdan koga će se srpski narod stideti, sramiti.
+__label__Positive To činim ne samo zbog odgovarajuće discipline koja jedinstvenim čini naših 14 poslanika, već i zbog ličnog i to dubokog i iskrenog ubeđenja.
+__label__Positive Dakle, mislim da je Odbor za pravosuđe i upravu postupio na pravi način i prihvatio one primedbe, prigovore i kritike koji su imali racionalno opravdanje.
+__label__Negative Nemojte i drugu povoljnost da im dajete, da u fabrikama nema radne snage.
+__label__Negative Hoću samo da kažem da kada neko nekoga optužuje treba prvo da ima osnova za to, a da se ne iznose lažne optužbe pred narodom.
+__label__Negative To je bila najveća krađa i najveća pljačka koja je u ovoj zemlji, po meni, ikada učinjena.
+__label__Negative Recimo, s obzirom na povećane migracije prema holandiji, prema hagu,drugovi socijalisti imaju najveću šansu da tamo osvoje vlast, ukoliko ova mera bude recipročna.
+__label__Negative Na žalost, kasno sam došao u Vladu da te vaše ljude koji su prodavali oružje šiptarskim teroristima počistimo blagovremeno i sada se najviše ćuti po tom pitanju.
+__label__Negative Ili - zabranite taj alkohol, ili - dozvolite da i mi govorimo tim rečnikom koji se koristi za ovom govornicom.
+__label__Neutral Cela ekonomija zavisi od toga od koga će država kupovati robu i kome će država plaćati usluge.
+__label__Negative Može u međuvremenu čovek da se razboli, može da ima drugi razlog za sprečenost da se u tom roku vrati, to ne piše precizno u zakonu.
+__label__Neutral Međutim, nije mesto ovoj odredbi u tački 4) jer kad se kaže - puna afirmacija građanskih prava i sloboda, pre svega se misli na individualna građanska prava i slobode.
+__label__Negative Ono što izaziva određenu sumnju u iskrenost rada ove vlade jeste davanje koncesija na prirodna bogatstva koja se obnavljaju.
+__label__Negative Ovde svakako za lustraciju je i Vladan Batić, jer je sve vreme vršio pritisak na pravosuđe, na sudije, a jedno od osnovnih ljudskih prava je pravedno suđenje.
+__label__Neutral Nešto se može, bar u pedagogiji je poznato, postići i nagradama.
+__label__Negative Zato zaista Boru Stanimirovića ne razumem, čitavo vreme slušajući ga, šta sada naknadno govori, dragi moj kolega potpuno si u pravu, ne razumem te šta govoriš.
+__label__Negative Zanimljivo je, izašao sam da vam odgovorim, inače ne bih, volim kada vi vatrirate, volim kada pokazujete želju za povećanjem popularnosti gospodina koštunice, to je dobra stvar.
+__label__Negative Ostaje pitanje zašto ministar inostranih poslova vuk drašković i drugi pojedinci iz vlasti kriju od javnosti celinu tužbe.
+__label__Neutral Dame i gospodo narodni poslanici, postoji jedna anegdota o dve filozofske škole.
+__label__Neutral Time što nema instituta mirovanja postupka, moguće je da se stranke ne pojave ni na narednoj raspravi i opet odluka suda treba da odloži raspravu.
+__label__Negative Mislim da se ovde pojavljuju velika populistička očekivanja ovog saveta, a u praksi će se sigurno pojavljivati problemi koje taj savet neće moći sa uspehom da rešava.
+__label__Negative Dame i gospodo narodni poslanici, kada se pročita celokupni Predlog zakona o mirnom rešavanju radnih sporova, zaključak je da miritelj, odnosno arbitar mora raspolagati nekim natprirodnim moćima, nekim parapsihološkim veštinama.
+__label__Neutral Gde je ovde bio razlog za žurbu i za hitni postupak?
+__label__Negative Haški tribunal je izbegao da optuži NATO i vodeće ljude NATO-a za počinjene ratne zločine.
+__label__Negative Možete da mi kažete svašta, ali ne to; možete da mi kažete i da sam rekao da ne žalim za njim, rekao sam, ne žalim za njim.
+__label__Negative Dame i gospodo, vidim da ste se uskomešali na ovo.
+__label__Negative To nije privatizacija, to je nakaradna privatizacija, to je sukob interesa.
+__label__Negative Ali možda i nije dobro da mi toliko to potenciramo, koliko je loše zbog onih ljudi koji se javljaju sudu sa tužbama, žalbama i očekuju pravdu.
+__label__Negative Znamo da će i tu verovatno biti otkaza, ali onoliko koliko ste obećavali da ćete zaposliti, u stvari, gospodo, blizu ste te cifre da date toliko otkaza.
+__label__Neutral Gospodine Markoviću, meni zaista nije ostalo jasno sada kome je ovo treće upozorenje.
+__label__Negative U normalnim, ozbiljnim zemljama takva ubistva su u suštini incident, ona gotovo i ne postoje.
+__label__Negative Kad god krećete ka pomoći, uvažavanjem nekih stvari, i očuvanju nacije, imate podršku srpskih radikala, ali ovde ne vidimo tu podršku.
+__label__Negative Ali, ovde, da stoji u članu da sudija ima pravo na platu dovoljnu da održi njegovu nezavisnost i sigurnost njegove porodice, zaista je neshvatljivo, meni.
+__label__Neutral Oni će biti izvoznici, strane firme koje su kupile naše pojedine firme ovde u državi pojavljuju se kao izvoznici.
+__label__Negative Nije ništa sporno da naše banke budu osposobljene da posluju i poštuju sve norme na onom putu ka EU, ali je veoma opasno ako ostanemo i bez domaćih banaka.
+__label__Neutral Što se tiče institucije koju je spomenuo cenjeni profesor mašić, cenjeni gospodin jojić, tzv. vojvođanske akademije nauka i umetnosti, moja malenkost je ministar nauke i zaštite životne sredine.
+__label__Positive Da sam na mestu albijanićevog oca i meni bi bilo drago da vidim svog sina na televiziji i to je potpuno normalan osećaj.
+__label__Negative Zašto niste onda prihvatili ovaj amandman da se to odnosi na objekte koji su izgrađeni do stupanja na snagu ovog zakona, jer ste već predvideli mogućnost legalizovanja i takvih objekata.
+__label__Neutral Zakon o posebnim ovlašćenjima radi efikasne zaštite prava intelektualne svojine – to "efikasne" ne razumem, to je bliža odrednica zakona.
+__label__Negative Posle toga je dobio optužnicu, odmah je otišao na nagodbu sa tužiocem, prihvatio obavezu da optužuje, svedoči, sve i svašta da radi.
+__label__Neutral U Kini se slobodne zone koriste maksimalno i u slobodnim zonama u Kini funkcioniše jako veliki broj firmi i veliki broj ljudi radi u slobodnim zonama i stiče prihod.
+__label__Neutral Obrazac našeg pasoša je regulisan međunarodnim ugovorima i pošto je međunarodnim ugovorima propisana sadržina obrasca, onda sve rubrike tamo imate na srpskom, na engleskom, na francuskom.
+__label__Negative Naravno da treba osuditi sve zločine na kosovu i metohiji i svuda.
+__label__Negative Pre svega da ispravim neistinu koja je maločas ovde rečena.
+__label__Negative Ljudi koji su bili stavljeni na spisak zabranjenih terorističkih organizacija su odjednom postali borci za ljudska prava.
+__label__Neutral Je l' o tome vi govorite, gospodine ristiću?
+__label__Negative Ako ne smete sami, nađite ovog primerka ili nekog drugog pošaljite da to kaže u vaše ime, bilo ko to neka to izgovori.
+__label__Negative Kako to da smo mi pre nego što je tolimir rekao da je uhapšen u srbiji znali da je uhapšen u srbiji?
+__label__Neutral Za poverenika se bira lice sa priznatim ugledom i stručnošću u oblasti zaštite i unapređenja ljudskih prava.
+__label__Neutral Pri projekciji prihoda od carine u drugoj polovini ove godine procenjeno je da će se rast usporiti usled očekivanog usporavanja rasta uvoza, kao i da će kurs dinara prema evru ostati relativno stabilan.
+__label__Neutral Nema veze što ste vi uvaženi, ja vam priznajem, za razliku od veroljuba stevanovića, vašu doktorsku kvalifikaciju.
+__label__Negative To je posao koji bi bio normalan, ali nije normalno kada uz podršku vlasti nešto dobijete za jedan dinar, a onda, uz podršku vlasti, prodate za sto dinara.
+__label__Neutral Država i privrednici moraju sinhronizovati korake ka razvoju ove saradnje, posebno Komora, koja mora da izađe iz stereotipa zatvorene institucije i da aktivnom ulogom pomogne brži prodor naše robe ka Indiji.
+__label__Negative Druga pritužba na ovu listu koja se nalazi pred nama jeste profesionalnost ljudi koji su predloženi.
+__label__Negative Dakle, ostavka je lični čin, samo što neke ostavke za posledicu imaju velike probleme - to je tačno.
+__label__Neutral Tako je to radila srs u bivšoj koalicionoj vladi sa socijalistima.
+__label__Negative Znači, Vlada nas, građani dragi, potkrada na nenaplaćivanju naknada za korišćenje prirodnih bogatstava.
+__label__Negative Treba da budete predsednik odbora za pritiske, za ucene, podmićivanje, lažna glasanja.
+__label__Neutral U tom međuperiodu su poslanici koji su tu bili, koji su izabrani za ministra, podnosili zakletvu.
+__label__Negative Nemojte da dozvolite, samo zato što ćete ostati tu gde jeste, da se uništava država, a to se, nažalost, dešava na delu.
+__label__Negative Mi smo rekli – gospodine Krkobabiću, izvolite, idite tamo, ali od toga nema ništa.
+__label__Positive Imali bi minimalnu socijalnu sigurnost da mogu da se posvete umetničkom radu i od umetnosti žive tako što će se potvrditi na tržištu.
+__label__Negative U narednoj godini nas očekuje svakako kreditna, odnosno hipotekarna kriza, povećanje kamata, otpuštanje radnika.
+__label__Negative Dakle, i pritvori i određen zatvor, ako je za neosnovano optuženo lice, određena istraga trajala mesecima i građani se obraćaju sudu.
+__label__Neutral Mi smo imali to kod zakona o finansiranju političkih stranaka.
+__label__Negative Vlada je morala, pre nego što je preduzela ove korake, da stavi rezoluciju na dnevni red i da mi argumentima pokušamo da vas ubedimo da to što ste naumili nije dobro.
+__label__Negative Moramo gledati činjenice, prepoznati da je ovaj proces, proces koji nije perfektan, proces tokom kojeg nećemo pristati na bilo kakvu ucenu oko našeg teritorijalnog integriteta.
+__label__Negative Osim globalne kritike, kada vladu globalno kritikujete i kada gledate na ono što nije ostvareno u njenom pledoajeu, imate pravo da pokažete i segmentne nedostatke pojedinih ministara.
+__label__Negative Odlaze tamo ne da obiđu Srbe, nego da pripreme teren za "sanaderizaciju" Srbije.
+__label__Neutral Za vreme Vlade u kojoj sam bio ministar, Srbija je bila na listi, ona je klasifikovana u Americi od svetskih banaka na 2B mestu.
+__label__Positive Naš lider dr Vojislav Šešelj se borio i danas se bori protiv svih oblika diskriminacije.
+__label__Negative Još jedan skandalozan podatak jeste da se radioaktivni otpad koji je nato, tokom agresije, bacio širom srbije u vidu osiromašenog uranijuma redovno doprema i skladišti u beogradu.
+__label__Neutral Osnivači su osnivači, mi ih poštujemo, oni su i dalje tu, a da bi dokazali legitimitet potrebno je 10.000 overenih potpisa članova, da stranka zaista postoji.
+__label__Neutral Do tada je bio medijski savetnik Vojislava Koštunice, čovek koji je radio to što je radio, što je Ivan spomenuo.
+__label__Negative Zato što zakon i priroda kažu da on više ne može da obavlja taj posao tako kvalitetno kao što je nužno za tu funkciju i za taj posao.
+__label__Neutral Oni su došli do zaključka da prodavci - bankari povećavaju maržu.
+__label__Negative To je stalno ono pitanje – šta ako, šta ako, šta ako?
+__label__Negative Međutim, ako upitate bilo kog pobornika nezaposlenosti – da li hoćeš ti da postaneš nezaposlen, verujte, niko od tih ljudi neće vam reći da bi želeo da postane nezaposlen.
+__label__Negative Ovakav kakav je, predlog zakona o kulturi nije osnova na koju bi se mogli osloniti posebni zakoni o pozorištu, filmu, spomenika kulture itd.
+__label__Negative Oni su ti koji dan-danas vrše razne zločine po Avganistanu, Iraku, na KiM itd. ili pak ćute o zločinima koje je u njihovo ime uradio neko drugi.
+__label__Negative Znači, smatramo neprimerenim profesiji TV novinara da necivilizovanim i nekulturnim obraćanjem predsedniku Republike Hrvatske dr Franji Tuđmanu, poslenik javne reči doprinosi atmosferi linča, a to je uradila gospođa Mila Štula.
+__label__Neutral Poslanici DSS su podneli amandman na član 14, a naslov iznad člana 14. je priznanje za vrhunski doprinos nacionalnoj kulturi.
+__label__Negative Da li će možda ministar vera podneti ostavku zbog toga što Vlada Srbije vrši kulturnu diskriminaciju crkve, vrši kulturnu diskriminaciju sakralne umetnosti i verske kulture u celini?
+__label__Negative Gospodin Tamaš kaže da manjine imaju problem, a ja kažem kao i većinski narod, pre svega sa stanovišta nezadovoljstva privatizacijom u kojoj je propao srednji sloj i to je problem svih nas.
+__label__Negative Kada već sarađuju na priznavanju takozvane nezavisnosti kosova, onda, ljudi, moraju bar da materijalizuju tu saradnju.
+__label__Positive Možda jednostavno zato što je politički i ekonomski status naše emigracije potpuno drugačiji i bolji od tih nesrećnika koji nisu imali prilike da se popnu u traktore kada se raspadala bivša Jugoslavija.
+__label__Negative Meni se čini voljom ministra, ne znam zašto, i njemu bi bilo lakše.
+__label__Negative Ne može ni „bajina bašta“ da radi, mora da se rekonstruiše.
+__label__Negative U suprotnom, smatraćemo vas glavnim krivcem u rušenju srpske državne imovine na Kosovu i Metohiji, od koje zavisi goli opstanak Srba.
+__label__Neutral Čitav niz amandmana koje smo podneli idu za tim da se ustanovi precizna procedura koja će da dovede do određivanja broja zaposlenih u lokalnoj administraciji na jedan logičan i normalan način.
+__label__Positive Samo na taj način ćemo uspeti da napravimo efikasnu državu koja će biti kvalitetnija.
+__label__Negative Optuženi su, kako je navedeno, od oktobra 2004. godine, pa u narednih godinu dana, nezakonitim radnjama prisvojili više od 50 miliona evra.
+__label__Neutral Šta svako ko nešto zna o finansijama ima pred očima kad čuje za neki razvojni plan?
+__label__Negative Prvo, neprihvatljivo je da se predlaže smanjivanje penzija onih koji su najsiromašniji, onih koji imaju najmanje penzije, njih je najviše.
+__label__Neutral Među strateškim ciljevima u oblasti obrazovanja, Nacionalnim planom akcije za decu određeno je povećanje njihovog obuhvata kvalitetnijim predškolskim vaspitanjem i obrazovanjem, s posebnim merama za decu socijalno isključenih grupa.
+__label__Neutral Zakon se piše da bi svaka životna situacija iz određene oblasti bila uokvirena u zakonsku normu.
+__label__Negative Zato nećemo da kažemo da li se nešto desilo nakon nečeg drugog što se desilo.
+__label__Negative Uprkos tim činjenicama, vi ćete danas usvojiti dokument kojim ćete osuditi samo zločin nad muslimanskim vojnicima, ali ne i zločin nad srpskim civilima.
+__label__Positive Nadam se da će u toku ove godine biti ostvaren značajan napredak u programu Partnerstvo za mir.
+__label__Negative Vest da će u njihovom mestu biti izgrađeno skladište opasnog otpada uznemirila je građane Krnjeva i Velike Plane.
+__label__Neutral Ovom prilikom ću krenuti redom po stavkama da iznesem osnovne stavove i sugestije naše poslaničke grupe po pitanju ovih izmena.
+__label__Negative Nemojte da nam se desi ono što nam se sada dešava, da školujemo poluobrazovane, poluintelektualce.
+__label__Neutral Zakonom je određena sadržina zahteva za imenovanje, kao i rešenje o imenovanju veštaka.
+__label__Neutral Tu su predviđeni viši kriterijumi, kako u pogledu stručne spreme, radnog iskustva, stručnog znanja, ali i praktičnog znanja u struci i iskustva.
+__label__Negative U tom pogledu nijedan vaš argument, vašom galamom i vašom pričom, ne prihvatam.
+__label__Negative Niko nas ne razume, a oni koji nas danas podržavaju ne čine to zbog razumevanja za nas, nego zbog razumevanja samih sebe.
+__label__Neutral Rekao sam da, kako se menja situacija – istinskom reformom.
+__label__Positive Želimo da izgradimo društvo u kome će svi građani imati šanse za napredak na društvenoj lestvici.
+__label__Neutral Bilo bi korektno da nam kažete šta je definisalo pojam teritorije ovako kako ste vi to definisali u ovom sporazumu?
+__label__Negative Da li je ministar zdravlja odgovoran za svakog onog lekara koji posegne za mito?
+__label__Negative Dakle, SRS je 7. oktobra ove godine podnela krivične prijave protiv predsednika opštine Zemun, Branislava Prostrana.
+__label__Negative Jednostavno, ne možete osporavati kritiku srs ili bilo koga drugog na teret ovog budžeta, promovišući ga kao vaše opredeljenje da budete socijalno odgovorni, jer po svojoj suštini ovaj budžet to nije.
+__label__Positive Sigurna sam da ova vlast čini sve što je u njenoj moći i mogućnostima da ispuni zakonske obaveze i mislim da će to svaka odgovorna vlast učiniti.
+__label__Neutral Koliko koštaju zakupi po velikim svetskim metropolama i koliko je tamo činovnika otišlo da radi?
+__label__Negative Navela bih kao jednu ozbiljnu grešku, sistemsku grešku ovog zakona i pisanje zakona u smislu nekog leks specijalisa.
+__label__Negative Malopre ste pomenuli jednu pogrešnu odluku, unazad 30 godina, o lečenju kardiovaskularnih bolesnika u klimatskim lečilištima na nadmorskoj visini preko hiljadu metara, verovatno asocirajući na zlatibor, zlatar.
+__label__Neutral Kada je predmet vraćen opštinskom katastru, vašeg ovlašćenja nije bilo u predmetu.
+__label__Negative A ko vam daje za pravo da pojedine strance uopšte ne oporezujete?
+__label__Positive Gospođo ministre, 2000. godine smo u Zakonu o izvršnom postupku izbacili tužbu, da se može pokretati parnični postupak protiv izvršne i pravosnažne sudske odluke.
+__label__Neutral Takođe, propisan je maksimalni rok za pokretanje prekršajnog postupka, koji se dozvoljava našim Zakonom o prekršajima, a to je rok od pet godina kad je prekršaj učinjen.
+__label__Negative Dakle, ovonije kritika postojećoj vladi, prethodnoj vladi, ovo je kritika sistema centralističkog koji suštinski omogućava da siromašni postanu još siromašniji, a bogati još bogatiji.
+__label__Negative Šta imaju koristi građani Zaječara od predloga za koji ćete vi ovde glasati iz razloga koji mi nije jasan?
+__label__Neutral Šta su konkretniji potezi inspekcijskih službi, poreske uprave, mup, tužilaštva itd, da se ti nepristojno bogati svedu u normalno bogate ljude, koji su uredno izmirili svoje obaveze?
+__label__Negative Da li to znači da su do sada prava pacijenata bila ugrožena, a da je organizacija zdravstvenih ustanova bila neefikasna?
+__label__Neutral Ta prava su da pacijenti koji imaju 15 godina, koji su sposobni da rasuđuju, odnosno sposobni za samostalno donošenje odluka, imaju pravo uvida u svoju medicinsku dokumentaciju.
+__label__Neutral Svi dobro znamo da tamo piše da sud sudi u veću, ali šta se dešava sa onim složenijim sporovima kod kojih je dozvoljena revizija?
+__label__Negative To znači da sad svako može pod firmom kršenja poslovne tajne da traži od suda izricanje privremenih mera i obezbeđenje dokaza, a da nikada ne podnese tužbu za povredu poslovne tajne.
+__label__Negative Sada morate da odete kod Pajtića, kažete, dajte ponovo sve papire za navoz, da se popnemo na most.
+__label__Negative Kako god da je rešite, narušili ste princip pravne sigurnost, princip legaliteta, a da ne pričam o pravdi i pravičnosti.
+__label__Negative Iz kredita u kredit, iz kredita u kredit, i gde ćemo doći?
+__label__Neutral Znači, postoji puno tih ideja šta bi mogao da bude praznik, ali preko nomenklature praznika očitava se sistem vrednosti u jednom društvu.
+__label__Neutral I dan danas su samo određeni ljudi zaduženi za to.
+__label__Neutral Danas je 5,8% na današnji dan – 5,8%, a obveznice su prodate po kamati 7,25%, da vas podsetim, poslednje, ovog proleća.
+__label__Neutral Liberalno demokratska partija misli da je bolje da guverner kada je već izabran ima pravo da formira svoj tim, da u potpunosti odgovara za njega.
+__label__Negative Upravo se ovaj institut i ne sprovodi zato što zatvori ne mogu da daju potvrdu.
+__label__Negative Još jednu aferu ponovo vratiti na površinu, aferu vakcina.
+__label__Positive Značajno je smanjen broj onih koji su osuđeni do jedan mesec zatvora, a skoro je duplo manje onih kojima je određena kazna između jednog i tri meseca zatvora.
+__label__Positive Ponavljam još jednom u svakom trenutku kad procenite da to izaziva štetne posledice po građane Republike Srbije spreman sam da u ovom parlamentu raspravljamo o bilo kojoj od tih odluka.
+__label__Positive Kada sam rekla da ministar ima pravo, i vi imate pravo, svaki ministar ima pravo.
+__label__Negative Energetski intenzitet ili odnos između utrošene energije i bdp u našoj zemlji je dva do tri puta veći, nego prosečan energetski intenzitet u zemljama eu.
+__label__Negative Raznorazne biljne bolesti su uzimale maha, napadale su poljoprivredne kulture kojima je, zbog teških uslova, imuni sistem bio oslabljen.
+__label__Negative Ubiti nekog prilikom silovanja je najstrašnija povreda dostojanstva ličnosti, povrede prava na život i zato je hemijska kastracija potpuno primeren, čak jedan skroman ekvivalent na zaštiti ovih sloboda i prava".
+__label__Positive Ekonomska situacija, prijatno okruženje, pozitivne poruke iz društva, pozitivne poruke iz porodice najbolje utiču na zdrav psihofizički razvoj pojedinca.
+__label__Positive Malo pre sam rekao da ovim sistemom, ovim zakonom rešavamo deo problema, rešavamo pitanje ovih žena koje rade i koje su do sada imale tu pretnju i gubile su svoj posao.
+__label__Positive Zaštita materinstva predviđena zakonom podrazumeva zaštitu žena od poslova koji mogu štetiti zdravlju, teških tereta zračenja, štetnih vibracija temperatura, takođe, se buduće majke štite od noćnog i prekovremenog rada.
+__label__Neutral Članom od 11. do 16. regulisan je potvrđivanje međunarodnih ugovora.
+__label__Positive Mi smo uvek spremni za saradnju i uvek smo spremni da uradimo sve ono što je potrebno da bi se bar pokrenuo taj put izlaska iz ove sveopšte krize u kojoj se nalazimo.
+__label__Negative Pripadnici Anasar Dine u državi Mali čine strašne zločine – primenjuju šerijatsko pravo, ruše spomenike kulture.
+__label__Positive Srbija ima i prirodne i ljudske resurse, ima znanje, ima mogućnosti da razvija nauku, ali ima i prirodne resurse.
+__label__Positive Trebalo bi da obrazovanjem utičemo na decu da kao odrasli ljudi budu, samim tim, manje agresivni i da razumeju potencijale borbe protiv diskriminacije.
+__label__Neutral Ovde smo već imali nekoliko situacija gde je ministar i javno izvestio o tome šta je urađeno.
+__label__Negative Svaki novi golobrst, odnosno napad gubara izazva veće gubitke u prirastu u većem obimu nego prethodni.
+__label__Neutral To je Nacionalni savet, to su njegove komisije koje moraju da krenu u istinsko preispitivanje kvaliteta obrazovnog sistema, da vide da li je to kvalitetno, da li je moguće.
+__label__Neutral Da taj potencijal naših studenata koji je izvanredan varira, odnosno uspeh studiranja zavisi od fakulteta do fakulteta.
+__label__Negative Država je odgovorna za kršenje ljudskih prava ne samo kada je ona počinilac nego kada su počinioci i druga lica.
+__label__Negative Neprihvatljivo je nasilje na ulici, neprihvatljivo je nasilje u kafani, na stadionima, ali bih rekla da je još neprihvatljivije sa moralnog i ljudskog stanovišta nasilje u porodici nad slabijima od sebe.
+__label__Negative Pričamo o gospođi mesarević i pričamo o njenom sinu kome su upućene pretnje.
+__label__Negative Druga primedba i druga sporna stvar, koju mi želimo da čujemo od vas, zašto je ugovorena vrednost radova veća za 33,5 miliona dolara od onih koji su navedeni u glavnom projektu?
+__label__Negative Jer, ukoliko je neracionalno funkcionisanje sudske jedinice u Temerinu zbog troškova, mislim da najmanje tolike troškove za ovu državu predstavljaju međunacionalni incidenti, odnosno posledice kada se ti međunacionalni incidenti dešavaju.
+__label__Negative Nažalost, nekad su te nesreće i sa tragičnim posledicama.
+__label__Negative Ako se ovakav nemaran odnos prema zapošljavanju mladih nastavi, može biti ugrožena ne samo socijalna sigurnost jednog dela stanovništva, nego rekla bih, i društvena sigurnost.
+__label__Positive Pri tome, bolest se sa uspehom leči u modernom svetu.
+__label__Neutral Prvo pitanje, vi znate da postoji Zakon o zapošljavanju invalida i obaveza da se invalidi zaposle, na određen broj zaposlenih svaka organizacija, svaka firma, mora da zaposli osobu sa invaliditetom.
+__label__Negative To više nije radnička klasa koja ima snagu i moć da generalnim štrajkovima se suprotstavi, izvrši pritisak na vladu.
+__label__Neutral Tako će se u prvih sto dana Vlade započeti sa rešavanjem pitanja održivog funkcionisanja banaka u većinskom državnom vlasništvu kroz odgovarajuće finansijske operacije, privatizaciju, konsolidaciju i punu profesionalizaciju menadžmenta.
+__label__Neutral Zaista je ambicija srbije da postane ono što jeste mesto, a to je jedna evropska moderna savremena zemlja.
+__label__Positive U većini slučajeva tužilac koji je podneo tužbu sam, nema mogućnosti da plati advokata, moraće da plati taksu i na odbačaj tužbe, tako da mislim da je ovo rešenje izuzetno dobro.
+__label__Negative Vrlo često su izloženi nehumanim uslovima poslovanja i vrlo često, odnosno u kontinuitetu imaju pritisak od eventualne mogućnosti gubitka posla.
+__label__Neutral Opet, ukoliko komisija ne odobri zakon za akreditaciju, visoko školska ustanova ima pravo žalbe i žali se u roku od 30 dana.
+__label__Neutral Uglavnom, dosta se govori o toj rezoluciji, o terorizmu i terorističkim borcima.
+__label__Negative Cilj bavljenja sportom jeste očuvanje zdravlja, a korišćenje doping sredstava onemogućava vođenje zdravog života.
+__label__Positive Ustava Republike Srbije propisuje – jamči se mirno uživanje svojine i drugih imovinskih prava stečenih na osnovu zakona.
+__label__Positive Potrošači će imati veću prehrambenu sigurnost, stabilizaciju ponude, povoljnije cene poljoprivredno-prehrambenih proizvoda.
+__label__Positive Sa druge strane, predloženo zakonsko rešenje pruža snažan podsticaj osiguravajućim društvima da primeni i ponudi tržišno konkurentan i prihvatljiv model osiguranja useva i plodova od elementarnih nepogoda.
+__label__Positive Trudimo se da stvorimo jedno potpuno drugačije i zdravije društvo.
+__label__Positive Ima i te kako uspešnih, ima i te kako sposobnih, ima i te kako poštenih ljudi.
+__label__Negative Ne sumnjivo je da će u ta tri meseca, ako se gospodin bradić složi, doći do smrtnog ishoda i štete po telo i zdravlje ljudi na institutu za onkologiju u sremskoj kamenici.
+__label__Negative Međutim, kada se izgubi sloboda, onda se i shvati koliko je ona vredna i veoma bitna za jedan narod.
+__label__Negative Nažalost većinu ovih smrtnih slučajeva izazivaju samoubice, preko 70%.
+__label__Negative Naime, proizrokovači biljnih i životinjskih bolesti, a to su bakterije, virusi, rikecije, paraziti, insekti, kao i zagađen vazduh, ne poznaju političke ni državne granice.
+__label__Positive Jedan od ključnih prioriteta i ciljeva Vlade RS jeste da izgradi, ojača i osnaži institucije koje će omogućiti i obezbediti vladavinu prava, kroz to stvori povoljnije poslovno okruženje, povoljniji poslovni ambijent.
+__label__Negative Dragi građani srbije, ja bih voleo da postoji da postoji zdravstvena kultura građana srbije koja je ista kao u norveškoj, švedskoj i nemačkoj gde je procenat vakcinacije 97% za mnoge vakcine.
+__label__Neutral Pritvor nije krivična sankcija koje su, krivične sankcije su inače propisane Krivičnim zakonikom, odnosno normama materijalno krivičnog prava.
+__label__Positive Delotvorno je i kada se poštuje vremenski okvir suđenja, odnosno zaštite suđenja u razumnom roku.
+__label__Negative Ja, gospodine babiću, nemam nikakav problem da priznam greške, da se izvinim građanima srbije za sve te greške i da prihvatim odgovornost za sve to.
+__label__Positive Dakle, moramo da velikim koracima napredujemo, da bismo stigli razvijene zemlje i da bismo mogli da budemo poštovani članovi i EU i ukupnog ekonomskog života u Evropi i u svetu.
+__label__Neutral Pod pritiskom tih nevladinih organizacija u Narodnu skupštinu je došao Predlog zakona o zabrani diskriminacije.
+__label__Neutral Naš plan je sledeći, što u obrazloženju takođe stoji, a to je da ćemo obučavati organe za imovinsko-pravne poslove ili kako god se zvali, službe za imovinsko-pravne poslove u lokalnim samoupravama.
+__label__Neutral Drugi je da se uvode takse za pružanje nekih usluga od strane državnih organa koji sada nisu bile obuhvaćene republičkim administrativnim taksama, kao i treći da se neke takse povećavaju.
+__label__Negative Danas dok pričamo, objavljen je zvaničan podatak Republičkog zavoda za statistiku, danas, da je prosečna plata u Srbiji pala za 4% u odnosu na isti mesec prošle godine.
+__label__Neutral Svi oni koji su bili zainteresovani mogli su da daju svoje primedbe i mnogi od tih primedba i uvršteni su u tekst Predloga zakona.
+__label__Negative Ja ne plediram da sam dao najbolju definiciju, to je ono što sam ja našao jer moram priznati da ni sam nisam znao šta znači – maceracija, recimo.
+__label__Negative Da je ova vlast kao što je njihova bila, oni bi pustili inflaciju od 10% pa njima povećali platu 7%, pa bi oni realno imali 3%.
+__label__Negative Oni služe za to da ubiješ čoveka, da ubiješ drugo ljudsko biće.
+__label__Positive Ne bežimo od tog problema i naš predlog je, tj. predlog Ministarstva zdravlja je da to bude zajednička komisija i Ministarstvo zdravlja i Ministarstvo poljoprivrede.
+__label__Negative Mi ćemo, naravno, pratiti primenu ovog zakona, jer očekujemo da će primena ovog zakona imati vrlo loše posledice u praksi.
+__label__Negative Ovom prilikom iskazujem zadovoljstvo i zahvalnost Ministarstvu zdravlja što je prvi put, posle 60 godina, pokrenulo ovo.
+__label__Negative Planirano povećanje ulaganje u nauku nije ostvareno i ono je i dalje dramatično nisko, nešto iznad 0,3% bdp.
+__label__Negative Mislimo, takođe, da je pet godina apsolutno nije dovoljno, nego da taj rok mora da se produži ako se već takva stvar radi.
+__label__Negative Ja nisam promenio uverenja, nisam bio lažni patriota, a sad postao lažni evropejac kao lider vaše stranke i to je ono što je bitno u ovoj priči.
+__label__Positive Poštovani predsedavajući, poštovano predsedništvo, dame i gospodo narodni poslanici, biću veoma kratak.
+__label__Negative Štetno je što smo tri i po meseca čekali i za poljoprivrednike, štetno je za investitore, štetno je za naučne radnike.
+__label__Positive Sistem odbrane Srbije nastaviće da doprinosi izgradnji i očuvanja mira u svetu učešćem deklarisanih jedinica Vojske Srbije i drugih snaga odbrane u multinacionalnim operacijama.
+__label__Negative Samim tim nemamo nikakvo specijalizovano znanje, nemamo dovoljno stručnjaka, majstora svog zanata, one koji su u stanju da znanje usavrše i prenesu ga dalje.
+__label__Negative Demokratska stranka Srbije se apsolutno protivi daljim evropskim integracijama zemlje zato što su one štetne po nas.
+__label__Positive Niko se ne zalaže za zatvaranje železare, ali se zalažemo za to da se prvo uvede red i da se pogleda šta u železari vredi, a šta ne.
+__label__Negative Znam ja da je bilo vas baš briga za tih 10.000 ljudi.
+__label__Negative Pričanje o tome da se oduzimaju čak i sendviči, o tome da neko dete neće da ima prevoz, o tome da je zbog nedostatka gromobrana neko stradao.
+__label__Negative Smatram da je uvredljivo javno cepati novine zato što su pisale, ne o premijeru, ne o državnom udaru, već o vašim kriminalnim aferama.
+__label__Positive Medicina rada je izuzetno široka grana medicine koja se bavi preventivom, a svi smo svesni činjenice da jedan dinar uložen u preventivu je isto što i 16 dinara u kurativu.
+__label__Negative Ne postoji najniži deo sumnje da su počinioci, odnosno da preti da će da počini neko krivično delo, što je vrlo sporno da policija vodi evidenciju o takvim ljudima.
+__label__Positive Ono što je svakako velika društvena korist kada je u pitanju porodica kao osnovna ćelija društva, neko malopre reče da ne znamo šta je porodica, da nije definisano.
+__label__Negative Poštovani ministri, predsedavajuća, narodni poslanici, ne sumnjam da ću i na ovo moje izlaganje dobiti odgovor kao što sam dobio na ovaj amandman koji je za mene nemušt i nedovoljan.
+__label__Neutral Na nama je da ovo usvojimo i da preuzmemo sva savremena rešenja u upravljanju šumama koja postoje danas u svetu, koja su moderna, da probamo da prenesemo, implementiramo kod nas.
+__label__Neutral U okviru ove strategije Tužilaštvo za ratne zločine treba da učini potrebne napore na unapređenju unutrašnje organizacije i unapređenje efikasnosti rada tužilaštva.
+__label__Negative Sa druge strane, prema podacima Republičkog centra za istraživanje rata, ratnih zločina i traženje nestalih lica u Banja Luci, Sud BiH je potvrdio optužnice protiv 651 lica.
+__label__Negative Dalibor Karanović je policajac kome su pretili dileri narkotika iz Bačke Palanke.
+__label__Negative Vas to nije zanimalo, zato što vas ne zanima demokratska parlamentarna praksa i zato što suštinski demokratiju ne razumete.
+__label__Negative Kosovo i Metohija u političkom životu Srbije, ostao isključivo predmet manipulacije i muka kojom se bavi svako ko je na vlasti, ne znajući šta će sa tim da uradi.
+__label__Negative Kome je falila dlaka sa glave svih ovih dana kada su na vaš poziv, na poziv bojana pajtića, saše jankovića, vuka jeremića i svih ostalih ljudi protestvovali na ulicama beograda?
+__label__Negative Mi smo poznati po tome da krenemo u reforme i na prvoj prepreci mi odustanemo.
+__label__Negative Prvo – šta se desilo u centru za socijalni rad kada je ubijena majka troje dece, a ubio ju je njen bivši partner, već ranije osuđivan za nasilje u porodici.
+__label__Negative Razumem da ste vi iz DS naučili, i vi mislite da je to demokratski, da je to evropski, policijskom čizmom ubiti čoveka, kao što ste to uradili sa Rankom Panićem.
+__label__Negative Molim vas, gospodine Šarčeviću, nemojte da imenujete nikog iz SNS, evo imenujte gospodina Borisa Tadića, molim vas još jedanput.
+__label__Negative Vi morate sa tim političkim ambicijama, te političke ambicije, onih koji takve ambicije ne bi trebalo da imaju po zakonu, morate da imate u vidu.
+__label__Positive Ovo što je vlada srbije uradila u tretmanu talasa, pa reke izbeglica je treći dodatni razlog za podršku, jer smo jedina zemlja koja je rešavala izbegličku krizu sa aspekta ljudskih prava.
+__label__Neutral Treba da se zna, ako država ima državne činovnike, postoji posebna vrsta prava koja se zove – činovničko pravo.
+__label__Positive Dakle, došlo je do povećanja prosečne plate 2017. godine u odnosu na period 2014, 2015. i 2016. godine.
+__label__Positive Dakle, inflacija je 1%, nezaposlenost 11%, direktne strane investicije su 13% više u odnosu na prošlu godinu kada je bilo dve milijarde, javni dug pada.
+__label__Neutral Cilj efikasnog planiranja je da se datim ulaganjem ostvari što bolji rezultat i da se predviđeni rezultat ostvari sa što manjim ulaganjem.
+__label__Negative Za vreme ministrovanja prethodnih ministara, uništen je dobar deo arsenala naoružanja, bez zanavljanja novog oružja sa savremenim i borbenim sistemima.
+__label__Negative Afera za aferom, opustošen budžet, zloupotrebe položaja, bogaćenje pojedinaca i osiromašenje građana.
+__label__Positive Oni u čije vreme je postojalo 27% nezaposlenih građana danas govore o nezaposlenosti, a nezaposlenost je za ovo vreme smanjena na 12%.
+__label__Negative Nažalost, ne tako davno u periodu pre dolaska SNS na vlast, situacija sa javnim finansijama bila je veoma loša, a država na ivici bankrota.
+__label__Positive Uređeni ratni memorijali kao važan segment kulturne baštine Srbije postaće deo kvalitetne i atraktivne turističke ponude.
+__label__Positive Ako danas pogledate kako srbija izgleda, onda tog stradanja više nema od 2015. godine.
+__label__Negative Naravno da ne treba da negiramo i ovde je poprilično pričano o tome, o tržištu ljudskih organa, o toj sivoj zoni ljudskih organa i ljudskog tkiva.
+__label__Negative Dakle, gospodo, sve je lepo i hvaljenje rezultata vlade i pohvala napretku u oblasti zdravstva koju ovde kolege izlažu, mada građani najbolje znaju koliki je taj napredak.
+__label__Positive Ja kao njegov izabrani lekar cenim napore pacijenta da razume i podrži Predlog zakona.
+__label__Neutral Može se još mnogo toga govoriti, ali nemam vremena.
+__label__Negative Nije to samo u staroj planini, imali smo proteste u brusu, imali smo ranije proteste u limu.
+__label__Neutral Pregovarački proces sa EU se sastoji od 35 poglavlja, a 27 poglavlje se odnosi na zaštitu životne sredine i predstavlja jedno od najkompleksnijih poglavlja.
+__label__Positive Srbija se trudi da sarađuje sa svima iako joj se to zamera, svima koji mogu doprineti bržoj obnovi i napretku zemlje, jer jedini interes je dobrobit građana Srbije.
+__label__Positive Boli ih uspeh predsednika srbije aleksandra vučića koji je uspeo da ugled srbije u svetu promeni za mnogo puta.
+__label__Negative Protiv stihije se borimo buldožerima, bagerima, bedemima, obalama, ali za vreme niskog vodostaja.
+__label__Negative Oni moraju da budu zadovoljni, moraju da znaju da ih cenimo, a ne možemo ih bez ozbiljnog ulaganja zadržati i u vojsci i u policiji.
+__label__Negative Šta je sa 128 milijardi evra, koje su 2001. godine ušle u srbiju kroz privatizaciju?
+__label__Neutral Čekali smo četiri godine dok su prošle sve ekonomske reforme i fiskalna konsolidacija.
+__label__Negative „Vreme je da odgovaraju svi koji su učestvovali u pljačkaškim privatizacijama i obogatili se od politike“.
+__label__Neutral I oni koji nisu došli danas, a iz ovog su dela, da dođu sutra.
+__label__Positive Ako pogledate kako izgleda stopa nezaposlenosti u Srbiji, sa 11,3%, ona svakako jeste negde na istorijskom minimumu, jer samo pre nekoliko godina imali smo stopu nezaposlenosti od 25,9%.
+__label__Neutral Vi ste neke bolesti navodili koje treba da budu predmet društvene brige o zdravlju, to su pre svega maligne bolesti i šećerne bolesti.
+__label__Negative Sada imamo jednu osobnu situaciju da je anders brejvik koji je ubio 70 ljudi na ostrvu, pre nekoliko godina, osuđen na maksimalnu kaznu zatvora od 21 godinu.
+__label__Neutral Činilo mi se da nisi.) naravno da sam slušao.
+__label__Neutral Takođe, što se tiče javne rasprave, ona je sprovedena od 15. februara do 6. marta.
+__label__Negative Onaj kome je zavrnuta ruka, onaj ko je fizički izmaltretiran ne vredi mu kasnije da kuka, da se žali, to mu ne vredi.
+__label__Neutral I za svih 29 godina postojanja i političkog delovanja relevantan politički činilac na političkoj sceni Srbije.
+__label__Negative Dame i gospodo narodni poslanici, ovaj čovek je sebi dozvolio i taj luksuz da kaže – Srbija se nalazi na crnoj listi FATF i zbog toga nam prete sankcije.
+__label__Negative Rodoljub šabić, poverenik za informacije od javnog značaja, dame i gospodo narodni poslanici, poštovani građani republike srbije, proneverio je 15 miliona dinara iz budžeta republike srbije.
+__label__Positive Već sadašnji nivo razvitka sveta dozvoljava da se ovaj problem rešava, doduše, prvo u virtuelnom svetu, ali neke stvari i već i realnom.
+__label__Neutral Na ovim lokacijama krenulo se sa izgradnjom 792 stana, čija je vrednost radova oko tri milijarde dinara.
+__label__Negative Dajte mu ozbiljnu kaznu, onda kriminalci više neće nositi ilegalno oružje.
+__label__Neutral Poslednjih 12,3 km završava se sada dok mi o ovome pričamo.
+__label__Neutral Mnoge bitke za privredu najpre se biju u nauci, u primenjenoj nauci, ali i u primenjenoj umetnosti, u industrijskom oblikovanju ili tzv. dizajnu.
+__label__Positive To delo ima neku ljudsku pouku, ima poruku, korist, potrebu, duhovno zadovoljstvo, kako za profesije, tako i za korisnike.
+__label__Negative Bilo kako bilo, fiskalni savet je na račun ovog vašeg predloga rebalansa izneo primedbe koje su još oštrije od onih koje smo ja ili kolega maločas izneli.
+__label__Positive Usvajanjem predloženih izmena i dopuna Zakona o finansijskoj podršci porodici sa decom uticalo bi se u značajnoj meri na rešavanje jednog od najvećih demografskih problema, a to je nedovoljan broj novorođene dece.
+__label__Neutral Strategijom informacione bezbednosti predviđa se međunarodna saradnja u cilju razmene informacija, znanja, iskustva sa inostranom mrežom nacionalnih, profesionalnih i međunarodnih centara za prevenciju bezbednosnih rizika u IKT sistemima.
+__label__Negative Na primer, veća upotreba komercijalnih dronova i šifrovane komunikacije, kao i napadi noževima i običnim automobilima predstavljali su dodatni izazov međunarodnoj zajednici u borbi protiv terorizma.
+__label__Negative I sada huška Zelenovića, onog nesretnog Zelenovića, koji optužuje svoju zemlju i državu stalno u inostranstvu.
+__label__Negative I da mnogima smetamo zbog toga, smetamo, i u regionu, i u svetu.
+__label__Negative Ona koja bez prestanka optužuje pojedine članove Vlade da su plagijatori, i sama je u najmanju ruku vlasnica sumnjivog doktorata.
+__label__Positive Za sve one neverne tome koji su rekli i slutili razno-razne situacije ovo je odgovor vlade republike srbije i svih nas poslanika koji ćemo za taj zakon da glasamo.
+__label__Neutral Tome u prilog govori i podatak da je tek 2010. godine, u junu, usvojen Zakon o elektronskim komunikacijama u skladu sa Regulativom EU iz 2002. godine.
+__label__Negative Tako će rukovaoci u prekršajnom postupku rizikovati kazne od najviše dva miliona dinara po pojedinačnom prekršaju, dok je najmanja zaprećena novčana kazna za prekršaj iz ove oblasti 50.000 dinara.
+__label__Neutral Dame i gospodo narodni poslanici, još jednom želim da se osvrnem na praksu prilagođavanja i usaglašavanja naših propisa sa propisima EU.
+__label__Negative Nažalost, policijski lobi je stalno prisutan, a to je onaj deo policije koji na bazi verovatnog želi da smesti ljude u zatvore, jer mentalno okreće situaciju tužilaštva i SUP-a prema osumnjičenom.
+__label__Negative Uslovi za propisivanje sankcija, takođe, nisu do kraja razrađeni, niti definisani, a sistem sankcija i vrsta prekršajnih sudova i sankcija nije prilagođen, niti usklađen sa našim pravnim sistemom.
+__label__Negative Govorio je o krađama i prekrađama u prethodnom peirodu, o onome što je juče bilo ovde izneto u duelu između gospodina Nikolića i gospodina Tadića.
+__label__Positive Ti ljudi nastupaju u ime nacionalne zajednice svoje, pokazuju sada lojalnost našoj državi, prema tome, to takođe treba ovde da se uvaži.
+__label__Neutral Svega 4 km pruge je potrebno da se spoji sadašnja pruga Prahovo-Zaječar-Niš sa graničnim prelazom.
+__label__Negative To je osnovna razlika u odnosu na neko vaše ponašanje, no to je vaše pravo.
+__label__Negative To je sakrivanje od javnosti i taj beg, naravno, prepoznaju naši građani. (Žagor.) Na koji način može efikasno da funkcioniše lokalna samouprava?
+__label__Negative Znači, nećemo svakog prvog da idemo u Ministarstvo finansija i da molimo, a sindikati uoči svake plate dođu i najave štrajk.
+__label__Negative Pitajte i vi zvanične predstavnike BiH, posebno muslimanskog dela BiH, šta je sa više od četiri hiljade ubijenih Srba u Sarajevu u vreme rata od 1992. do 1995. godine?
+__label__Neutral Mi smo za mnoga osiguranja imali obećanja da će do kraja ove godine biti okončan postupak stečaja.
+__label__Neutral Neophodno je da postoji ovlašćena, licencirana laboratorija kojoj se šalju uzeti uzorci.
+__label__Negative Znači, opet je tema ko je osmislio kampanju u kojoj treba da se otac penzioner i sin zaposleni ili nezaposleni svađaju oko toga da li je prioritet penzija ili radni odnos.
+__label__Negative Mi smo u vreme vlasti Socijalističke partije i tadašnje Radikalne stranke, sadašnje Srpske napredne stranke, imali uvoz bezbednosti na teritoriju naše države i to je bilo zaista loše.
+__label__Negative Aluzija na proslave i kako se dolazi sa proslave, isto pitanje, kako da vam kažem, jednog stereotipa koji neko gaji u sebi, pa misle da gaje svi.
+__label__Negative Zašto nije ovde u parlamentu, zašto ovde nije predsednik Vlade?
+__label__Neutral Pravna sredstva kojima se štiti pravo na suđenje u razumnom roku su dvojaka.
+__label__Negative Mada, teško je i poljubiti se s nekim u toj njihovoj skupštini a da nije terorista, pošto je preslikana ta teroristička organizacija.
+__label__Negative Dakle, mislim da je potpuno nepotrebno mešanje države u ono što se zove privatno pravo građana.
+__label__Negative Nije morao baš na tu temu da se javi i da me upozorava jer tu kulturu imam iz lokalne skupštine.
+__label__Negative Ovo što nam se dogodilo je udarac za sve nas, ali je zaista udarac pre svega za elementarne principe poštovanja prava i pravde u celom svetu.
+__label__Neutral Zato SRS smatra kada je u pitanju prekid, odnosno odlaganje vojne vežbe, da je to moguće samo na obrazložen zakon državnih organa.
+__label__Negative Ona je napravila jednu povredu što je dala apsolutno pogrešno uputstvo o tome kako prestaje mandat, ali nisam se javio zbog toga.
+__label__Negative Ovo je jedina država u svetskoj ekonomskoj krizi, u trenutku svetske ekonomske krize na teritoriji Evrope koja povećava javnu potrošnju umesto da je smanjuje.
+__label__Negative Ni u njihovom slučaju, još uvek, nema nikakve informacije da ima osumnjičenih, da ima privedenih ili da ima onih protiv kojih će biti pokrenut krivični postupak.
+__label__Negative Ono što vidimo jeste suštinski problem sa imovinom i to je glavni problem.
+__label__Negative Predsednice Mićić, razumem vaše nezadovoljstvo, vaš gnev i sve ostalo što proizilazi iz situacije u kojoj se nalazite, ali to nije potreba da izričete mere suprotno ovom poslovniku.
+__label__Neutral Poštovani predsedavajući, imam pitanje za predsednika Vlade i za ministarku građevinarstva, saobraćaja i infrastrukture.
+__label__Positive Da postoje najmanje dve banke koje će učestvovati u pregovorima, odnosno koje će prepoznati da je oporavak preduzeća održiv na duži period i da im restrukturiranje omogućava povoljno namirenje potraživanja.
+__label__Neutral Mislim da i uvažena ministarka zna da je Opštinski sud u Kanjiži učestvovao u međunarodnim projektima i programima.
+__label__Negative Prema tome, masa neistina, čak i sa ovakvim medijima u Srbiji, čak i da se ponavlja na najbrutalniji, najprizemniji način, nikad neće postati istina.
+__label__Neutral Dosta je predloga o kolegama koji nisu radili u pravosuđu, nego dolaze iz struktura vlasti.
+__label__Negative Morate nekada i priznati kad zabrljate, pa da se traži ispravno rešenje i izlaz iz toga, a ne da neprekidno srljate, pa da vi onda bujicom reči podstaknete to srljanje.
+__label__Negative Vi ste gospodine Arsiću takav penicilin da me ne bi začudilo da vas spakuju u male bočice pa da počnu sa tim dozama i sa vama da se bore protiv ovoga korona virusa.
+__label__Negative Šta se desilo: Bljesak i Oluja u Republici Srpskoj Krajini.
+__label__Neutral Negde je procena da je devizna štednja otprilike osam milijardi evra.
+__label__Neutral Kako će se sada ovaj zakon primeniti u narednoj godini?
+__label__Neutral Dame i gospodo narodni poslanici, postoje zemlje koje imaju zlato i dijamante, a siromašne su.
+__label__Negative Manje odlaze, ali i dalje mnogo odlaze i nećemo to moći da zaustavimo lako i niko to ne može da zaustavi lako.
+__label__Neutral Naravno, planiranje prihoda i rashoda u domaćinstvu uvek zavisi od toga ko je domaćin i kako se on ponaša.
+__label__Neutral Prvi prioritet za fondove, kao i za budžete, treba dabude poštovanje principa, a može se isplatiti onda samo ono što se realno prihoduje.
+__label__Positive Mi kada smo govorili, a zaista jesmo, Vlada Srbije danas o tom pitanju vodi računa, o tim potrebama se stara na odgovarajući način.
+__label__Negative Smatram da nije trebalo požuriti pa ukinuti tu komisiju, nego možda dati malo više vremena da se to telo snađe bolje.
+__label__Negative Naši predstavnici, predsednik Milutinovic i konkretni strucnjaci 18 puta su odlazili, ali Šiptari nisu došli i opet je pritisak na nas, umesto na njih, i to vojnom silom NATO snaga.
+__label__Negative Ova poslanička grupa sada kritikuje vrlo ciljano zato što ima šta da kritikuje i zato što ima toliko loših stvari o kojima moramo da govorimo javno i otvoreno i vrlo precizno ih navodim.
+__label__Positive Tu je predlagač po meni postavio stvari na svoje mesto afirmišući, pre svega, struku.
+__label__Negative Da vas obavestim, po četvrti put su sinoć razbijene prostorije LDP-a u Irigu.
+__label__Neutral Istovremeno, predajem vam izjavu Aleksandra Jovanovića, oca ubijenog Dušana Jovanovića, kome je predsednik Republike, gospodin Boris Tadić, otkrio spomen-ploču.
+__label__Negative To mu propadne, firma propadne na tržištu, pretrpi gubitke i on ostane bez firme, ostane bez tih 50.000 maraka.
+__label__Negative Socijalnu pomoć u Srbiji prima preko 70.000 porodica, a svakodnevno sve veći broj stanovnika je sve siromašniji.
+__label__Negative Posledice tog rezultata su nizak životni standard građana, pritisak na privredu, otežana privredna aktivnost, nizak privredni rast koji onemogućava podizanje životnog standarda građana i to je jedan začarani krug.
+__label__Negative Možda će na kraju partijska lojalnost i disciplina pobediti i to stručno mišljenje, to ćemo videti, ali možda i nećemo videti – doći će dan za glasanje, nećemo imati mišljenje Odbora.
+__label__Negative Završiću rečima slavnog Koče Popovića, koji je nekada na reči neodgovornih ljudi "ti nisi ništa uradio za Srbiju", lakonski i mudro odgovorio - "ništa loše".
+__label__Negative Dvostruko ubistvo Trailović Borislava i Dragice, 1934. i 1937. godište.
+__label__Positive Mi u poslaničkoj grupi SPS, nemamo ni jedan jedini problem da podržimo nešto što je nužno, a nužno je spasiti najprofitabilnije preduzeće uz Republici Srbiji.
+__label__Negative Pa, da li je moguće da su to te evropske vrednosti za koje ste zalagali?
+__label__Negative Donosili smo teške odluke proteklih godina, donosimo i danas teške odluke i donosićemo teške odluke.
+__label__Neutral Stoga u ime poslaničke grupe Demokratske stranke Srbije odustajemo od ovog amandmana.
+__label__Negative Dakle, predsedavajuća Narodne skupštine neprecizno je interpretirala odredbe Poslovnika kojim se sprečava kandidat za guvernera da se obrati Narodnoj skupštini i narodnim poslanicima.
+__label__Neutral Dame i gospodo narodni poslanici, poštovani građani, čisto radi informacije, ovako glasi član zakona posle amandmana, ukoliko bi usvojili amandman gospodina Pavićevića.
+__label__Negative Koliko hiljada ljudi čeka na isključenje struje ovih dana kada se vrate sa godišnjih odmora?
+__label__Negative Otkud tolika nagla ljubav između Saveza vojvođanskih Mađara i Demokratske stranke Srbije.
+__label__Positive Dakle, kao neko ko se bori za zaštitu Roma, apsolutno Romi u kancelariji za readmisiju, Romi u Ministarstvu unutrašnjih poslova i eventualno u Komisiju za nadgledanje i sprovođenje ovog sporazuma.
+__label__Neutral Mi smo predvideli kroz ovaj savet za srednje stručno obrazovanje i obrazovanje odraslih i kroz ovaj zakon da stvorimo osnov za donošenje zakona o obrazovanju odraslih.
+__label__Negative Iz svih ovih razloga, nisam u mogućnosti da svoje poverenje glasanjem poklonim kandidatu za predsednika, Zoranu Đinđiću, i ostalim kandidatima za članove Vlade.
+__label__Negative I to je tužio državu Srbiju zato što ga je predsednik Republike Aleksandar Vučić označio kao navodno narodnog neprijatelja koji potkrada svakog građanina Srbije.
+__label__Negative Kada je reč o Zakonu o sudskim taksama, činjenica je da prinudna naplata sudskih taksi ne zadovoljava.
+__label__Negative Mi svojim ukupnim delovanjem moramo se zapravo potruditi da uzbunjivanje postane pravilo, da ne ostane izuzetak, jer sve što je izuzetak, nažalost, vrlo lako izumire.
+__label__Positive Srbija je počela kao država da se uspravlja, da ustane iz pokajničkog kolena, onoga gde ga je Tadićeva vlada dovela.
+__label__Negative Da ne bih gubio vreme na predlog za ukidanje smrtne kazne, nastojaću da ukažem i na sledeće probleme, odnosno na sledeće nelogičnosti ovog predloga zakona.
+__label__Neutral Tada je rekao da javnost očekuje da se poslaniku Ivkoviću skine imunitet.
+__label__Neutral Međutim, vratiću se na temu i usredsrediću se na Sporazum Srbije i Međunarodne banke za obnovu i razvoj, naročito, oko Koridora 10.
+__label__Negative Verujem da je predlagač ovog amandmana gledao mafijaške filmove u mladosti.
+__label__Negative Ako vlast ne podigne glas i na neki način napravi uzbunu u REM-u ćute.
+__label__Neutral Ne znam da li je bio do kraja svestan značaja i sadržine svojih reči.
+__label__Negative Prosečneplate su vredele 430 evra, a danas vrede 310.
+__label__Positive Ništa novo nije tražio, da se nekome skine sa budžetskog razdela ili nekome doda, nego ono što je u Ministarstvu za KiM opredeljeno da se rasporedi na malo drugačiji način.
+__label__Positive Treba imati u vidu da se u oblasti kulture, umetnosti, sporta putem dodeljivanja nagrada javno afirmišu ostvareni i značajni rezultati i time se vrši podsticaj za budući rad.
+__label__Neutral Da li je merilo da je neko odličan student, da je dobro uradio praksu?
+__label__Neutral Do dana početka primene ovog zakona izvršiće se premeštaj zamenika javnih tužilaca iz ukinutih javnih tužilaštava u skladu sa Zakonom o javnom tužilaštvu, ukinutih.
+__label__Positive Pomoći će očuvanju identiteta pripadnika naše dijaspore, kako nacionalnog tako i jezičkog, kulturnog iverskog.
+__label__Positive Dobro je kada se usklade broj poena i utisak koji članovi Odbora imaju.
+__label__Neutral U policijskoj upravi, dakle, kao što je ovde naznačeno, radi više policijskih službenika.
+__label__Negative Sada vas pitam, da li vi tolerišete poziv na linč protiv poslanika SRS?
+__label__Neutral Sa stanovništva strategijskog okruženja posebna radna grupa je izvršila procenu izazova rizika, pretnji i bezbednosti Republike Srbije, o čemu ću još nešto reći.
+__label__Neutral Tako treba posmatrati razvoj svih vidova turizma za koje imamo potencijale, planinski, zdravstveni, kulturni, kongresni, tranzitni, seoski, lovni, nautički, itd.
+__label__Negative Znamo kako se do zatvorske kazne dospeva, kojim delima.
+__label__Positive Treba nam analiza i voleo bih samo da ta analiza bude zasnovana na jednoj rečenici koju je rekao ministar zdravlja, koju ću ja dopuniti kako bi ta analiza bila kvalitetna.
+__label__Negative I mi bismo mogli da kažemo za neke ministre iz Vlade Vojislava Koštunice i te kako mnogo toga, o čemu je pisala i štampa, ali, naravno, neću zapodenuti tu priču.
+__label__Positive Imajmo hrabrosti, pa bez tog velikog izliva osećanja ljubavi za svoju istoriju ili društvo, pogledajmo realno.
+__label__Negative I kada se sve ovo sagleda ne može a da se ne nametne pitanje zbog čega se Amerika odlučila za otvoreno rušenje međunarodnog prava i sistema Ujedinjenih nacija.
+__label__Negative Niko od nas se nije radovao, niko od nas nije seirio i nikome od nas nije bilo zadovoljstvo da se tako nešto desi.
+__label__Negative Kada govorimo uopšte o legalizaciji i modernizaciji Srbije, vi iz vladajuće većine mnogo se vrtite u krug.
+__label__Negative Zbog toga mi moramo obezbediti ponovo sredstva da se ti gromobrani dislociraju, pomere, da se stavi gromobran koji nije štetan, koji nikome sutra ne može praviti štetu.
+__label__Negative Kupovna moć i slab asortiman, to je ono što danas karakteriše malu privredu.
+__label__Negative Neću glasati za oduzimanje imuniteta kolegama poslanicima, jer nije raspravljano o saobraćajnim i drugim incidentima koje je izazvao Čedomir Jovanović.
+__label__Neutral Po redosledu izvođenja radnji i karakteru i ulozi učesnika postupka u glavni pretres na kome se izvode dokazi i sud materijalno odlučuje o odgovornosti i kazni optuženog, gotovo je poistovetio sa parnicom.
+__label__Neutral Marsilio od Padove je u 12. veku rekao da sudovi postoje da nas zaštite od samovolje sudija i gospodara.
+__label__Negative Gospodine Ružiću, da li ste vi to možda meni pretili?
+__label__Negative Karakteristike siromaštva su, naravno, veliki broj izbeglica i raseljenih lica, dok je više od 150.000 dece u kategoriji siromašnih, a više od 400.000 penzionera ima najniže penzije.
+__label__Neutral Vrlo često u tim odnosima se izvlači zajednički imenitelj i postoje zajednički interesi koji su i materijalne i duhovne prirode.
+__label__Negative Da karikiram malo, kada naiđete na dvokrilna vrata, ako ne piše šta je ulaz, a šta je izlaz, možete se sudariti sa onim drugim.
+__label__Negative Uzimajući učešća u upotrebi klaster bombi, počinili su akte protiv Savezne Republike Jugoslavije, kojima je prekršena obaveza zabrane upotrebe zabranjenog oružja.
+__label__Positive Svako normalan hoće da ulaže jer uloženi dinar u sve to, u zdravu proizvodnju hrane – vratiće se, u turizma – tri puta će se vratiti.
+__label__Positive Svaka čast Tužilaštvu što je hitno reagovala po tom pitanju.
+__label__Neutral Verovatno ćete da date i neki posao i neku platu itd.
+__label__Neutral Nismo sudili o ovom predlogu, ne samo na osnovu sadržine koja je stigla ovde u Narodnu skupštinu, nego smo pratili i ceo tok rada na pripremi ovog predloga zakona.
+__label__Negative EU projekat, ovaj sukob dolara i evra neće preživeti.
+__label__Positive To je naša želja da život u Srbiji, u smislu rada u ovom parlamentu i u političkom delovanju, učinimo zaista poštenim, učinimo prihvatljivim i poštovanim za građane Srbije.
+__label__Positive Te stvari će takođe biti sankcionisane jer želimo da imamo i stvorimo jedan čvrst ekonomski sistem, u kome će se poštovati pravila i u kome će svaki poverilac imati dodatnu državnu zaštitu.
+__label__Negative Niko nije lud da se na silu svađa sa Zapadom.
+__label__Negative Bolje bi mu bilo da ovaj jedan po jedna slučaj rešava.
+__label__Negative Jer, vaši politički suparnici, srpski radikali, nemaju prilike da se pojave na vašim medijima, nemaju prilike da budu zastupljeni na državnim medijima.
+__label__Negative Dame i gospodo narodni poslanici, evo još jednog pokušaja da se Vladi, da se jednoj grani vlasti pribave ingerencije koje pripadaju drugim dvema granama.
+__label__Negative Mladi zasadi, stariji, šest-sedam godina, porezani su ovih dana, umesto da se reže voće za iduću sezonu; motorke samo rade i sve će kroz furunče da se proturi.
+__label__Neutral To su nam Božidar Đelić i njegov pomoćnik Dejan Popović uveli.
+__label__Negative Naravno da omalovažavanje ovog doma na taj način nije dobro i zato hoćemo da vidimo pismeni izveštaj o ovome, jer nekako na reč verovati nije baš puno dobro.
+__label__Positive Zbog toga bi najbolje bilo da prihvatite ponudu i da u toku ove godine održimo vanredne parlamentarne izbore.
+__label__Negative Pored ubedljive pobede, ti se nisu predali ni posle izbornog poraza.
+__label__Negative Upozorio sam na to da ce jedino Srbija iz tri dela biti cela.
+__label__Negative Građanima Srbije će dobro doći te akcije da bi preživeli, ali se plašim da neće biti ta vrednost i neće moći da dobiju tu vrednost.
+__label__Positive Za programe od javnog interesa mora se konkurisati i javiti se na javno raspisan konkurs i podneti izveštaj o tome da su odobrena sredstva namenski korišćena, sa čim se apsolutno slažem.
+__label__Negative Ovde raspravljamo kako da gradanima vratimo dugove, a deset-dvadeset, pa možda i pedeset godina cemo utvrdivati ko je opljackao Srbiju i ko je to odneo.
+__label__Positive Samim tim se nivo stručnosti i znanja sudija podiže na jedan viši nivo, jer će se tu odlučivati i o zatvorskim kaznama, lišavanju slobode.
+__label__Neutral Zašto nije donet poseban zakon, na osnovu koga biste vi, donoseći zakon o sedištima sudova, mogli da kažete da se ova oblast uređuje posebnim zakonom?
+__label__Neutral S druge strane, teza o dobro zaposlenom i nagrađenom geometru u državnom katastru opovrgava tezu o liberalizaciji uslova otvaranja privatnih geodetskih organizacija.
+__label__Negative Zašto ste danas bili protiv odluke o zabrani prodaje nacionalizovane imovine?
+__label__Negative Primera radi, u ovom predlogu zakona od AP Vojvodine nema ni "v".
+__label__Positive Volela bih da dobijemo odgovore na ovo, zato što ćemo se u odnosu na vaše odgovore mi opredeljivati sa li ćemo glasati ili ne.
+__label__Negative Zbog takvih psihopata u pravosuđu koji bi za 5.000 evra uradili sve i baš ih briga što će taj neko da ubije, neće njega.
+__label__Negative Druga zabluda, ili nedovoljno poznavanje teksta, jeste ideja da ovaj zakon rešava pitanje privatizacije u oblasti osiguranja.
+__label__Neutral Na drugom mestu, u Makedonskoj ulici, potpuno suprotna slika.
+__label__Neutral Bilo je ovde i 106. jedno tri puta, pa nikoga niste prekidali zbog toga, ali nema veze, evo po članu 107.
+__label__Neutral Po ovom članu Predloga zakona koji je Vlada predložila Skupštini postoje dva načina davanja ostavke.
+__label__Neutral Potpuno ste u pravu kada kažete da je 0,5% od 60 ovih miliona, to je negde 300.000 evra, zatezna kamata.
+__label__Positive Ako neko područje ima kapacitet za vrhunski uspeh u atletici, onda jeste sigurno Novi Pazar, što ste i pokazali sa vrhunskim sportistima i sportskim rezultatima.
+__label__Negative Taj ugled je ukaljan;tačno, a oni koji su ga ukaljali treba da odgovaraju.
+__label__Neutral Konkretno kada su u pitanju garancije radi se o iznosu koji je nekih 196 milijardi dinara, znači nepunih dve milijarde evra.
+__label__Negative Nemamo ništa, jer to vlade, ne ova, nego i prethodne vlade ne čine ništa da naprave pravu reformu državne uprave.
+__label__Negative Prema našim saznanjima, a pod pritiscima izvršne vlasti, čak se i institut pritvora protivno ustavnim ograničenjimazloupotrebljava.
+__label__Negative Uozbiljite se, ministre, jer to je najmanje što možete da pružite kada ste u ovom parlamentu.
+__label__Negative Ima na desetine i na stotine hiljada zloupotreba od strane bankarskog sistema, toga ste vi svesni.
+__label__Negative Međutim, izgleda da sa sociologijom, filozofijom i logikom nešto malo bolje stojim, pa mi neke stvari stvarno nisu jasne.
+__label__Negative Mislim da su zbog te efikasnosti ove odredbe o pritvoru morale ostati makar na onom kako je sadašnje pravo predviđalo, odnosno sada važeći zakon.
+__label__Negative Znam pouzdano da su među specijalnim snagama bili pojedinci koji su učestvovali u organizovanom ubistvu predsednika Vlade ove države i da je tamo bilo dosta ubijenih civila u to vreme.
+__label__Negative On priča o uhapšenim i podnetim krivičnim prijavama i govori neistinu.
+__label__Negative Oni kažu da su u taj protest uključeni svi radnici "Robnih kuća Beograd", koji su doputovali autobusima danas i, kao što rekoh, nalaze se ispred zgrade Vlade Republike Srbije.
+__label__Negative Dakle, to je nešto što je prosto primer za to kada se ne misli kako se lako naprave potpuno nepotrebne i glupe greške.
+__label__Negative Optužujem gospodina Batića, iako nije prisutan što još jednom potvrđuje njegov odnos i odnos kompletne Vlade Republike Srbije prema ovoj skupštini, za rušenje i skrnavljenje zgrade Skupštine Savezne Republike Jugoslavije.
+__label__Negative Ukoliko se ne pojavi, vi mu ime moje poslaničke grupe i u njeno ime prenesite pozdrave i recite mu da cenimo njegovu sklonost da rizikuje.
+__label__Neutral Ovo je pismo koje je direktor odnosno predsednik Gasprom Geokom servisa uputio tim povodom tadašnjem v.d. direktoru NIS-a, gospodinu Pavlu Vučkoviću.
+__label__Neutral Sada bih malo samo o Sporazumu o saradnji sa državom Kuvajt.
+__label__Negative Vi nemate to ovlašćenje, niti bi Vlada Republike Srbije, mogla na predlog, zahtev ili mišljenje NBS da menja vlasničku strukturu drugih banaka.
+__label__Negative Znači, sa aspekta racionalnosti, budžet ništa ne košta da pustimo da ode sve u stečaj i da samo isplatimo osigurane depozite, da ne prebacujemo i neosigurane.
+__label__Negative Te ostavke se nalaze na nepoznatom mestu, to mesto je poznato samo gospodinu Nikoliću.
+__label__Negative A mi znamo da jedan zarez promenjen bilo gde, oni bi skočili sa pričom – eto, promenjen je zakon, promenjen je Poslovnik i zbog toga ništa ne valja.
+__label__Negative Oni će nam kazati ko od nas greši, ko nije u pravu.
+__label__Negative Interes je gospodo tajkuna koji žele da za male pare kupuju poslanike ovde i da donese zakone kako njima odgovara.
+__label__Negative Međutim, ima tu i nekog prekoračenja neke granice dokle to može da ide, dokle to ima nekog smisla, ima nekog ukusa.
+__label__Neutral Kao posledicu toga, imamo upozorenje Međunarodnog komiteta da je donošenje ovog zakona jedan od uslova evropskih integracija.
+__label__Negative Dakle, naša je odgovornost da štitimo vrednost kapitala Republike Srbije, a nećemo ga štititi ako imamo oslobođene ljude od bilo kakve odgovornosti u jednom tako važnom sistemu.
+__label__Negative Takođe sam najavila da mi radimo ozbiljno analizu koliko smo tu imali problema kako bismo pokušali to na neki drugi način da rešimo.
+__label__Neutral Kako ćete vi, odnosno kako planirate da omogućite da se ti pregledi sprovode redovno ili periodično i kako će naš izabrani lekar da ima svest o tome da je to jako bitno.
+__label__Neutral Tačno je da je donošenje zakonao Skupštini ustavna obaveza i da član 110.
+__label__Negative Imam toliko godina da imam čak i obavezu da obavestim javnost o tome, pošto znam vas, dobro znam vas, znam šta sve možete da uradite.
+__label__Negative Seminar na Kopaoniku ili na Zlatiboru ili u Vrnjačkoj Banji, na kome učestvuje 1.000, 1.500 ili 2.000 ljudi, više liči na vašar, svadbu ili provod.
+__label__Negative Kada ćete predložiti, gospodo iz vladajuće koalicije, ženu premijera?
+__label__Neutral Ovde se radi o privremenoj meri, o najmanje 14 dana i privremena zabrana kontaktiranja sa članom porodice u cilju sprečavanja daljeg vršenja nasilja.
+__label__Negative Kao što ste denacionalizaciju gurnuli preko SPC, koja čak i nije tražila povraćaj imovine sa pravom raspolaganja, nego vraćanje imovine radi korišćenja i radi trajnog korišćenja tih nepokretnosti.
+__label__Negative Eto, on je malo luckast, pa sad neka, jedna stranka iz Vlade je to osudila, Vlada ništa nije uradila.
+__label__Negative Ukoliko se ne budemo sa ovim izborili, ukoliko ne budemo podržavali prave projekte i donosili prave zakone, nema ni nacionalnog, ni duhovnog, ni biološkog oporavka Srbije.
+__label__Positive Zato sam kao predstavnik Ministarstva zdravlja stalno ovde prisutan i stalno ću odgovarati na ona pitanja u zadnjem četvrtku, bez obzira koliko ona bila prijatna ili neprijatna.
+__label__Neutral Na više mesta u planu se spominje i da ostvarivanje ciljeva dosta zavisi i od političke situacije, tj. od neizvesnosti političke situacije.
+__label__Positive Pokazali smo solidarnost prema svim zemljama u okruženju, ali zato, poštovani građani Republike Srbije, Srbija ima između dva ili tri preminula od Kovida na 100.000 stanovnika.
+__label__Neutral Spomenuću samo jednog, a pripada bivšem sistemu DS, sada je doduše pokojni, ali dozvolite da spomenem, a to je advokat Srđa Popović.
+__label__Negative Međutim, vi ste nam, sanjajući vaše snove, oduzeli te snove.
+__label__Positive U planu je potpisivanje, odnosno zaključivanje sporazuma o podsticaju i zaštiti, takođe investicija sa ovom zemljom, kao i zaključivanje jednog krovnog sporazuma o ekonomskoj – trgovinskoj saradnji sa Palestinom.
+__label__Negative Danas imamo po opštinama na teritoriji Republike mala društvena preduzeća, koja su bez kapitala i naročite perspektive u pogledu oživljavanja njihove proizvodnje i obezbeđenja zarada zaposlenih u tim preduzećima.
+__label__Negative Ne, ponovo smo dali građaninu u ruke da piše žalbe, da piše prigovore o kome odlučuje sudija koji te prigovore prima, predsednik suda, kadija te tuži, kadija ti sudi.
+__label__Neutral Što se tiče koalicije u Požegi, isto jedna vrlo zanimljiva situacija.
+__label__Positive Vreme je da počnemo da se bavimo bilateralnim odnosima sa svim zemljama Evrope, ali isključivo na ravnopravnom osnovu i isključivo na obostranom interesu.
+__label__Negative Iako se stvari ne promene, bićemo veoma blizu te čudne situacije, gde administracija koja treba da gradi košta više nego ono što treba da gradi.
+__label__Neutral Kad stranac investitor ili pravno lice dođu u ovu zemlju, oni traže putnu infrastrukturu, traže blizinu aerodroma, traže blizinu reke, i to je ono na čemu mi moramo da poradimo.
+__label__Negative U poreskoj upravi često je gužva, stalno vas dočekaju formirani redovi, ko će vam dati informaciju?
+__label__Negative Sigurna sam da je Koštunica bar savladao, ako ga ne poštuje, ovaj tekst Ustava.
+__label__Neutral U prethodnim godinama smo imali po pet, a u ovoj godini po jedan.
+__label__Positive Moji partijski drugovi su jasno kazali da je to nešto što su već odradili, pa sad hoće njime da dobiju pokriće za ono što su obećavali, davali i radili.
+__label__Negative Mislimo da je to prevelika cifra, imajući u vidu da ta porodica ima štetu, bilo da obavezu treba da plati otac ili majka.
+__label__Negative Način na koji se postavljate narušava kredibilitet institucije i ovo shvatite kao dobronamernu primedbu.
+__label__Negative Dame i gospodo, moram da počnem svoju diskusiju onom narodnom "kuća gori, a baba se češlja".
+__label__Negative Sedam godina je prošlo od 2009. godine i vi sada pokušavate neke ozbiljne, pismene, obrazovane ljude, koji sede u tom Savetu, da ubedite da smo im mi prekrojili sudbinu.
+__label__Negative On je prekjuče, a ne vidim da se gospođa ogradila od toga, rekao da mu seljaci smrde.
+__label__Negative Nijedan soliter, nijedan hotel ne mogu da zamene ni tvrđavu, ni Pobednika, ni Nebojšinu kulu, ni Savamalu, ni Terazije, ni ovo zdanje Doma Narodne skupštine.
+__label__Negative Te stranke nemaju ni dovoljan broj clanova, koje bi kandidovali za lokalne odbornike, a da ne govorim o potrebnom broju kandidata za sastav birackih odbora.
+__label__Negative Gospođo predsedavajuća, dame i gospodo narodni poslanici, kao što dobro znate, gotovo mesec dana, tačnije, danas je 26 dan kako traje štrajk u prosveti.
+__label__Neutral Taj Koridor je prema projektu, ali i prema obećanjima koji su davani građanima Sandžaka, trebao je da prođe kroz Sandžak, tačnije kroz Peštersku visoravan.
+__label__Negative To samo po sebi krije nelogičnost meni kao slušaoca, ali to nikako ne uskraćuje vama pravo da to kažete.
+__label__Negative Dakle, ko god da je mogao da pomisli da verujem da se neko ovde zalaže za diktaturu svojim ponašanjem, naravno da ne verujem.
+__label__Negative Dalje, gospođa Aleksandra Ljubojević, supruga narodnog poslanika Dragana Ljubojevića, predsednika Gradskog odbora SRS, dobila je u vreme porodiljskog bolovanja otkaz u Ministarstvu vera.
+__label__Negative Najmanje onih zakona koji su inicirali ambiciozni ministri jer su želeli da ovaj svoj mandat obeleže donošenjem tzv. krovnih zakona, ne mislim na vas, gospodine ministre.
+__label__Neutral Staću kod "Službenog glasnika" i njegovog listanja sa ovih 12 milijardi dinara zapisa koji će za godinu dana dospeti.
+__label__Negative Da li bi od slanja sanitetskih službi Ministarstva odbrane u Čad trebalo da vam bude važnije, ili bar podjednako važno, da svim optuženicima pred Haškim tribunalom pomognete u odbrani?
+__label__Negative S obzirom da su ovi pre nas potpisali nesretni SSP, gde je prerana i preterana liberalizacija dozvoljena devet godina pre ulaska u EU.
+__label__Neutral Ako niste znali, 16 puta je veća verovatnoća da će nam zatrebati tuđi organ, nego da ćete biti u prilici da svoje organe date nekom drugom.
+__label__Neutral Ovo u prvom redu mislim na slučaj kada radnik bude oslobođen krivične odgovornosti, kao i optužbi da je učinio teže povrede radnih obaveza i da nije poštovao propisanu radnu disciplinu kod poslodavca.
+__label__Negative To znači da je to bilo potpuno pogrešno promišljanje u tom trenutku i kratkovido.
+__label__Negative Postoje dobri i loši primeri u zemljama u tranziciji kako se vrši reforma podzemne eksploatacijeuglja i ona je svuda kompleksna, bolna i jako zahtevna.
+__label__Positive Poštovana predsedavajuća, poštovane kolege narodni poslanici, pomaže Bog svima i svima koji slave Mitrovdan – Srećna slava.
+__label__Negative Smatram da je povređen čl. 106. i 107.
+__label__Neutral Kada sam ja bio ministar u prošlom mandatu, pre ove vaše vlade, znate šta je bio „MB Miljković“?
+__label__Negative Od kada je došla demokratija mi znamo da je moguće da čovek bude tu i ako ga ne vidite.
+__label__Neutral Kada organizacija nadležna za poslove zapošljavanja primi navedeni nalaz, ostavlja se primereni rok od 15 dana da donese rešenje o proceni radne sposobnosti.
+__label__Negative Protiv vas je podneta krivična prijava zato što ste dostavili Skupštini opštine falsifikovane ostavke dvoje odbornika iz Pokreta snaga Srbije Bogoljuba Karića.
+__label__Negative A, naravno, očekujem i komentar za onaj deo koji se odnosi na direktno nepoštovanje zakona i na direktno nepostojanje reakcije od strane vašeg ministarstva.
+__label__Negative Svaka suvišna pravna norma opterećuje ovaj zakon, ali ne govori o pokušaju da se popravi zakon, govori o propalom i neuspelom pokušaju da se popravi rejting.
+__label__Negative Govori o tome da zapravo oni žele ovde da izazivaju tenzije i da nama drže predavanje o poštenju, o moralu, zloupotrebljavajući institut zloupotrebe Poslovnika.
+__label__Neutral To je bilo dan nakon proglašenja nezavisnosti Kosova, u februaru 2008. godine.
+__label__Negative Ali, šta da vam kažem, sami ćete u utorak čuti i mrmljati na poznatu melodiju da ste prezreni na svetu i da ste sužnji koje mori glad.
+__label__Negative Stvarno ne znam o kakvim lepotama pričamo i dobrim prethodnim zakonima i privatizacijama kada smo mi zaista došli u jednu ovakvu situaciju.
+__label__Negative Poželeće mnogi ljudi, pa Boško Ristić je pre dve godine tražio autonomiju za Niški region.
+__label__Negative Svašta čujemo, ali ne možemo, bilo bi neozbiljno da mi, narodni poslanici, komentarišemo to što čitamo po novinama.
+__label__Negative Nisam vam rekla da je to sadašnje, rekla sam vam pre nekoliko meseci ili pre godinu dana, nemojte da me držite za reč.
+__label__Negative Mnogi od njih su krivi, ali mogu da kažem da su neki nevini, i to dosta njih, samo zbog učešća u oružanim jedinicama stradali i osuđeni na dugogodišnje robije.
+__label__Neutral Bez rešenja vlasnika svojine, nema napretka i rezultata u privredi i društvu.
+__label__Neutral Za invalide, traže se pismeni dokazi iz vremena kada je lice zadobilo ranu, ozledu ili je doživelo neku bolest.
+__label__Neutral Kao što sam rekla i kod strategije, potrebne su sve vredne ruke u Srbiji i sve pametne glave u Srbiji.
+__label__Negative Podmećete reklame, podmećete neke koji nisu ni služili vojsku, podmećete neke koji će da laprdaju ovde sve i svašta da bi dezavuisali osećaj kod građana.
+__label__Neutral Zatim, rekonstrukcijom sedam malih hidroelektrana, slučaja izbornog jemstva.
+__label__Negative Ukoliko takvih sankcija nema, onda se postavlja pitanje čemu onda uopšte i revizija završnih računa?
+__label__Neutral Istovremeno, nastavice se sa politikom podsticajnih mera u poljoprivredi, u skladu sa usvojenom strategijom razvoja agrara.
+__label__Positive Istine se nikada nećemo odreći i istinom ćemo režim pobediti.
+__label__Positive Vama hvala, gospodine Albijaniću, izvinite što sam prekoračila vreme.
+__label__Negative Prema tome, nije istina da se ne uzimaju uzorci, a za ostalo, ne bih da komentarišem.
+__label__Neutral Mi smatramo da je 15 dana zaista dovoljno da Uprava za duvan blagovremeno obavesti navedene subjekte o obavezi dostavljanja traženih izveštaja, 15 dana je komotan rok da oni sve to mogu da izvedu.
+__label__Positive Dakle, oni su svi izrazili želju da žele više, jer deca osećaju potrebu i deca osećaju izuzetnu odgovornost kada im se da takva mogućnost da oni kontrolišu roditelje.
+__label__Negative I obrnuto, nastavni kadar koji u roditeljima ne uspe da obezbedi svog prirodnog saveznika, teško da može računati na širu podršku društvene zajednice.
+__label__Positive Dakle, oni koji dobro rade, dobro zarađuju oni vode knjige u sistemu su PDV-a i nemaju nikakvih problema.
+__label__Negative Zato i dan-danas Ustavni sud ćuti o inicijativi koju smo pokrenuli pre šest meseci da bismo stavili van snage sporazum Srbije i Rusije.
+__label__Neutral Nadam se da će ministar razmisliti i o gornjem delu našeg amandmana, o razlici i definiciji teleskopski optiči nišana.
+__label__Positive Urugvaj je prepoznatljiv po Montevideu gde smo nekada bili prvaci sveta i mogu da kažem, sigurno mogu da kažem da Srbija može biti prvak sveta i u poljoprivredi, u kvalitetnoj hrani.
+__label__Neutral Prema tome, pazite još jednu stvar, a zašto ona ne bi mogla da se kandiduje, kao i svi ostali građani?
+__label__Negative Gospodine Kneževiću, koliko tačno još ima pravilnika za koje vi u ovom trenutku procenjujete da nisu usklađeni međusobno i da u bliskoj budućnosti mogu da proizvodu štetne posledice slične ovoj?
+__label__Neutral Dame i gospodo, radi se o amandmanu da se praznuje Vaskrs pet dana.
+__label__Negative Mi moramo promeniti strukturu srpske privrede i na vama je, na ovoj vladi, velika odgovornost da u roku od godinu-dve napravite sistemski fundament za ovu promenu strukture.
+__label__Neutral Ono što je uspelo da se organizuje i da se suprotstavi, to se javno i pušta.
+__label__Positive Dame i gospodo, drugarice i drugovi, uvaženi članovi Vlade, poštovani premijeru gospođo Brnabić, najpre želim da vam čestitam više nego uspešnih prvih 100 dana rada ove Vlade.
+__label__Negative Smatram da je cela njegova diskusija bila usmerena ka tome da priča o kako on kaže prethodnom režimu sa željom da za ovakvo stanje u sudstvu optuži prethodni režim.
+__label__Negative Kamo sreće da neki drugi građani, nekih drugih država nisu došli na prostore i na deo teritorije Srbije, na deo Kosova i Metohije, i u Bosni i u Hrvatskoj.
+__label__Neutral Ovde se, da ponovim, ne radi o tome da će se građevinska preduzeća zaduživati.
+__label__Neutral Kao što znate, revizije nekih ugovora, dopune, itd. su na Vladi i postoji procedura, zakon i sve ostalo.
+__label__Negative Drugim rečima, u okviru budžeta za kulturu predviđeno je negde ispod 1% i od toga je 2/3 za zaposlene u institucijama, nema mesta za slobodne umetnike.
+__label__Neutral Za nas je posebno značajan član 22. koji se tiče zabrane diskriminacije dece.
+__label__Negative U vremenu naše vlasti, Milo Đukanović je samo mogao da sanja da raspiše referendum i da se otcepi.
+__label__Neutral Pred sobom imam Humanitarni centar za integraciju i toleranciju, koji je sačinio jednu analizu zaštite ljudskih prava i prava nacionalnih manjina u Republici Srbiji.
+__label__Neutral Danas se supersilama u svetu nazivaju zemlje koje, osim nuklearnog oružja, imaju energente, velike izvore energenata.
+__label__Positive Takođe, ono što je jako važno jeste da se na ovaj način dodatno jača otpornost domaćeg finansijskog sistema i time se podstiče razvoj finansijskog tržišta i finansijskog sistema u celini.
+__label__Neutral Na temelju kog propisa će se regulisati status prognanih lica ubuduće?
+__label__Negative Postoje svedoci, postoje ljudi koji će da vas terete zbog toga pred nadležnim državnim organima.
+__label__Negative Ako je to telo koje koordinira sa državom, a napravilo velike kriminalne radnje i korupcije, to je strašno.
+__label__Neutral Ako ste tvrdo na stavu vašeg predsednika stranke i njegovog odnosa prema KiM, onda nemojte ništa da mi pričate, sve mi je jasno.
+__label__Neutral Najveći troškovi koje porodica optuženog ima odnose se na troškove angažovanja branioca, na troškove prikupljanja izjava svedoka odbrane.
+__label__Negative Procenili ste da vam je život ugrožen, ne znam od koga, mislim da ni od koga od nas iz opozicije nije.
+__label__Positive U tom preduzeću smo osposobili tri gluvoneme osobe za krojački zanat koje sada imaju svoje samostalne radnje, od kojih žive i oni i njihove porodice i tako se uključuju u redovan život.
+__label__Negative Nervozni ste zato što sam pomenuo Pajtića, uhapšenog i osuđenog Stanoja, sa kupovinom firmi.
+__label__Neutral Očekivao sam danas, gospođo ministre, da počnemo da razgovaramo o nekim bitnim stvarima koje će zaista definisati pravosuđe.
+__label__Negative Od javnosti se krije Pravilnik MUP-a o Fondu novčane pomoći članovima poginulih i ranjenih pripadnika MUP-a; krije se Pravilnik o platama MUP-a Srbije.
+__label__Negative Znate, u tim olujama ne bi dobro bilo da štampamo te obveznice.
+__label__Neutral Kad kažem te druge praznike, mislim na praznike nacionalnih manjina.
+__label__Neutral Za taj novac, mi smo mogli do sad tri puta da okrečimo sve zdravstvene ustanove.
+__label__Negative Činjenica je da mi nismo uređeno društvo u kome je moguće da se trudnici produži ugovor o radu koji je istekao, jer da jesmo, zakon bi to predvideo.
+__label__Neutral Vi pominjete Zlatiborski okrug, mi smo se dosta tim Zlatiborskim okrugom bavili.
+__label__Negative Lično znam da među predloženim kandidatima ima i takvih koji će za pristojnu nagradu pojesti akta ili napraviti nova akta kako bi nekog optužili.
+__label__Neutral Čak i sada, kada za vreme ovih reči puštate muziku sa mobilnih telefona, a naravno namerno.
+__label__Negative Ne zato što podržavam ili ne podržavam ministra, nego zato što mislim da nijedan ministar to ne bi trebalo da radi.
+__label__Negative Imali smo pre nekoliko dana jednu lošu poruku, kada je prvo bilo najavljeno pa otkazano slavlje ispred Skupštine za vaterpoliste i mlade matematičare, pobednike na Olimpijadi.
+__label__Negative Gospodin Imamović vrlo dobro zna da ja potičem iz dela Srbije koji ja nazivam Raškom, on ga naziva Sandžakom.
+__label__Neutral Niko ne može izbaciti ili eliminisati kao zakonski institut institut zemljišta za redovnu upotrebu objekta.
+__label__Positive Ja se zalažem za proizvodnju mesa, mleka, jaja i preradu, što veću fazu prerade, domaće prerade u Srbiji, da na takav način uvećamo BDP iz poljoprivrede i prehrambene industrije.
+__label__Negative Uprkos opomeni koja je izrečena prešli smo preko jedne situacije u kojoj je gospodin, samostalan poslanik, koji ima i svog prijatelja, samostalnog poslanika, pretio ovde i obraćao se narodnim poslanicima.
+__label__Negative Dame i gospodo narodni poslanici, mislio sam da će kolege koje su brze noge udarile biti prisutni, zato što plovidba uglavnom njih dodiruje.
+__label__Neutral Nacionalni centar za separaciju – naravno da, ali po evropskim principima u centralnoj ustanovi u Institutu "Sveti Sava".
+__label__Negative U mestima odakle su vaši predstavnici Vlade, danas više ne može da polaže vozački ispit, danas mu traktor ide svake godine na tehnički pregled.
+__label__Negative Time ste mu dali mogućnost da nekoga ko je bio nosilac barjaka demokratije 2000. godine optuži za nešto što nema veze sa osobom o kojoj se govori.
+__label__Neutral Pored toga, u cilju efikasnijeg sprovođenja postupka, primena odredaba o skraćenom postupku proširena je na sva krivična dela za koja je propisana kazna zatvora do pet godina.
+__label__Negative Sada se vraća kao bumerang ono što je unazad nekoliko godina upozoravala SRS, gde će nas dovesti megalomanski državni i ministarski aparati, gde će nas dovesti formiranje nepotrebnih agencija.
+__label__Negative Odnosilo se na porodice poginulih policajaca i ranjenih policajaca u ratnim dejstvima… (Saša Radulović: Kako možete toliko da lažete?)
+__label__Positive Inače, kada govorimo o ovom predelu on je izuzetne lepote, ekološke vrednosti, ekološke raznovrsnosti i raznovrsnosti kultura naroda i običaja.
+__label__Negative To nije sve, uvažena profesorka protivi se, a verujem i gospodin Ševarlić kada brani, podizanju spomenika srpskim herojima Milanu Tepiću i Gavrilu Principu.
+__label__Negative Koja je dobrobit jednostrane primene tog vašeg čuvenog sporazuma, čiji je jedan amandman izazvao potres?
+__label__Positive Skupljali smo potpise, peticije, milion potpisa je SNS 2010. godine skupila da budu vanredni izbori.
+__label__Negative Dostavljeno je nekoliko desetina članova, bilo okvirno objašnjeno, bez ikakve mogućnosti da Skupština ima uvid u pravi stvarni rad i organizaciju ta agencije.
+__label__Positive Suština je, još jednom ponavljam, mislim da je gospodin Đurić tu dao sasvim dobru argumentaciju, u globalnoj ekonomiji.
+__label__Negative Agencija za licenciranje stečajnih upravnika je u ne retkim slučajevima u praksi propustila, nenamerno, da sprovede kontrolu rada poverenika stečajnih upravnika.
+__label__Positive Radimo zbog toga što zaista želimo da se taj procenat učešća železničkog transporta poveća u Srbiji.
+__label__Negative Kasnije, u akciji "Sablja", taj čovek je uhapšen jer je mnogo znao o Dušanu Petroviću; verovatno Dušan Petrović nije izvršio sve ono što je obećao gospodinu Milanu.
+__label__Positive Ono što je takođe za priznanje i podršku je da je taj zajam nešto povoljniji nego prethodni zajam koji je služio za prvu fazu gradnje, odnosno revitalizacije dva termoenergetska bloka u Kostolcu.
+__label__Negative Uništili su Srbiju, uništili su sve krajeve od severa do krajnjeg juga.
+__label__Negative Ima mnogo prebega iz DS kod vas, pa kad krenete da nabrajate zašto ne valjamo, odjednom krenete prst u svoje oko da gurate.
+__label__Negative Mi smo tamo ušli u američku mašinu, mašinu NATO pakta, a kakva nam sve iznenađenja priređuju, to će se videti.
+__label__Neutral Ful tajm im je 11 godina za medicinske kliničke studije, da postanu osnovne studije, da završe magistetrijum i doktorate.
+__label__Negative Nisam vam spominjala juče da, možete da pogledate stenografske beleške, ja lično i SVM vama, nikome nije pretio žalbama.
+__label__Negative Po treći put govorim zašto prihvatam ovaj amandman, odnosno zašto ću glasati ovaj amandman i zašto, ako se ništa ne izmeni, zbog poljoprivrednog zemljišta ne mogu da prihvatim ovaj zakon.
+__label__Negative Hoćete li da dokazujete vašu uspešnost time da je neko pre vas bio lošiji?
+__label__Negative Umesto toga, dobili su besplatno deljenje pameti i milion novih problema.
+__label__Positive Bez obzira što gospodin, dr Rade Jović nije tu, o njemu najbolje govori njegova brilijantna i uverljiva pobeda na lokalnim izborima za predsednika opštine.
+__label__Negative Ne znam da li će se zabaviti i kletvama koje je Borisu Tadiću i Ivici Dačiću izrekao otac Jova Đoga, koje je izrekao ujak Ranka Panića, koje je izrekla majka Ranka Panića?
+__label__Positive Trebamo stalno sebi postavljati nove zahtjevnije ciljeve, stalno i uporno otvarati nove mogućnosti.
+__label__Negative U kom stanju je čovek da to posle ne zavisi od toga kako će veštak da bude plaćen, kako će da bude zadovoljan tog dana da bi procenjivao nečiju sposobnost.
+__label__Positive Prema tome, ja potpuno razumem emotivan nastup gospodina Karaičića i mislim da je bio apsolutno opravdan i da mora da bude, odnosno da ga razumete zbog toga.
+__label__Negative Mnogi će i odavde i na mnogim drugim mestima, koliko u narednim danima, da se pozdrave sa svojim službenim vozilima.
+__label__Neutral Samo je izmislio Sava Kosanović nekoliko godina posle Tesline smrti za potrebe komunističkog režima.
+__label__Negative U nekoliko pitanja u proteklim sednicama ja sam skretao pažnju na ukidanje prava vojnih invalida i negde u protekloj ovoj kalendarskoj 2013. godini hiljadu rešenja je ukinuto.
+__label__Neutral Izuzetno, naručilac može iz razloga čuvanja poslovne, službene, vojne ili državne tajne odlučiti da otvaranje ponuda i prijava ne bude javno, što je dužan navesti prilikom oglašavanja javne nabavke.
+__label__Negative Da li je bahatost to što je uveden red u eksproprijaciju ili da vas podsetim na sve one afere oko nekog Keneta, oko nekih kuća koje su pretplaćivane i šta je sve rađeno?
+__label__Positive Veoma sam zadovoljan, između ostalog, sa vašim ministarstvom i sa onim što ste za ovih godinu dana pred nas poslanike, zaista dali.
+__label__Negative Moram da iznesem svoj lični stav, kada gospodin Parivodić obrazlaže neki zakon, za živu glavu neću da glasam za taj zakon.
+__label__Neutral Kada se sve sabere, koliko je to novca od strane države odlazi ka železnicama?
+__label__Negative Takođe stvara problem to što po predlogu zakona se daje mogućnost ministru da umanjuje podsticaje za poljoprivredno zemljište.
+__label__Positive Dobar dan, posebno mi je zadovoljstvo što danas možemo pred parlamentom da predstavimo jednu konvenciju, nadam se da je i zajednički potvrdimo.
+__label__Neutral Upoređivali su te podatke neki drugi istraživači sa prebolonjskim razdobljem, gde je procenat odustajanja bio, kažu, 45%, 50%-55% je diplomiralo.
+__label__Negative Oni koji prolaze kroz ovu bitku znaju koliko je teško prikupiti svu potrebnu dokumentaciju kako bi se došlo do komisije za sam ulazak u proces.
+__label__Negative Tamo je napisan i pušten u časopis "Skandal" tekst, moje vaspitanje ne dozvoljava da citiram naslov tog teksta, znate o čemu se radi.
+__label__Neutral Do sada je rekord Peking, Solun je pao u zaborav.
+__label__Neutral Mi govorimo… (Boško Obradović, s mesta: Što ne nastavite sednicu?) Pa, sednica traje do 21 sat.
+__label__Negative Osuđen je na 12 godina zatvora, da bi Apelacioni sud iz potpuno neverovatnih razloga ukinuo presudu i pustio ga da čeka prvostepeno suđenje na slobodi.
+__label__Negative Vi jeste naš vrhunski stručnjak iz jedne važne oblasti medicine, to vama niko ne spori, ali nemojte da samo branite svoj stav.
+__label__Neutral Da budemo iskreni, uvek je tu pet minuta koji se uštine.
+__label__Negative Dakle, ono što treba, treba mnoga pozorišta popraviti, ona su zapuštena, ona su bez osnovnih sredstava za rad, ali treba forsirati što više domaćih predstava u pozorištu.
+__label__Neutral Dame i gospodo narodni poslanici, podneo sam amandman na član 10.
+__label__Negative Videćete već sutra, biće vrlo interesantno koji su ljude iz BIE kojim ljudima pomagali u demokratskom bloku da steknu svoje diplome.
+__label__Negative Čitajte izveštaje ...(Aplauz.) Meni je simpatična ta principijelnost onih koji veruju samo sebi i ne veruju izveštajima međunarodnih ekspertskih grupa.
+__label__Neutral Najpre, hoće li onaj kome je odobrena uopšte tražiti preispitivanje.
+__label__Neutral Situacija koju svakodnevno možemo da pratimo u medijima treba da bude zaista na visini zadatka, nikako tabloidna.
+__label__Positive To je nešto što je dobro što po meni zaslužuje pohvalu, a ne kritiku.
+__label__Negative Za svo to vreme samo ste imali priliku da se bogatite, samo ste imali priliku da upropašćavate, samo ste imali priliku da pljačkaškom privatizacijom upropastite Srbiju.
+__label__Negative Genocidna je agresija najrazvijenijih zemalja, kad se ruše komunikacije, kada se bombarduju pijace, zdravstveni objekti, civilni ciljevi, a u celoj priči najmanje stradaju vojni objekti i vojni ciljevi.
+__label__Neutral Baš me interesuje kako bi Srbija tada reagovala i kakve bi informacije mogla da dobije od Albanije.
+__label__Positive Nasuprot prvih i drugih stranaka, G17 plus u svemu podržava ovaj zakon i tačno zna zašto.
+__label__Negative Mogli bismo navoditi i niz drugih primera, ali je potpuno jasno iz ovog primera zašto u Srbiji nema poreske discipline.
+__label__Positive Uvek prihvatam kritiku i očekujem da i drugi prihvate, ukoliko je prava.
+__label__Positive Stoga vas u ime poslaničke grupe SSJ pozivam da podržite ovaj naš amandman.
+__label__Negative Ko god ne zna koliko je to od budžeta Republike Srbije, može da pogleda zakon, da podeli i da dobije jasan broj.
+__label__Negative Nije svima pravo što Srbija nabavlja oružje, unapređuje svoju armiju, unapređuje svoju policiju, pa imamo napade i na koga, i na drugog čoveka države.
+__label__Neutral Na taj način se pojačava sigurnost u postupku usvajanja i uspostavljanju bolje mere bezbednosti, kojom bi se sprečila otmica, prodaja i trgovina decom radi usvajanja.
+__label__Neutral Ne, podsetio bih vas, da i u Drugom svetskom ratu, da su i saveznici i Nemci, čak, lečili međusobno ranjene, a bili su u proglašenom ratnom stanju.
+__label__Negative Ja njega mogu i razumeti kao narodnog poslanika bivše DS, a sada udruge za obrtaj, koji su u haosu, neradu i nezakonitosti lično profitirali, ali su zato građani nazadovali.
+__label__Negative Naravno, nije bilo razumevanja za tako nešto, ali nije najporaznija, najgora činjenica u celoj toj priči to što je usvojen 1996. godine.
+__label__Negative Ne samo zbog Smedereva i ljudi iz Smedereva, nego zato što je to poruka odustajanja ove Vlade od rešenja nekog problema kojeg su svi proglasili nerešivim.
+__label__Negative Dame i gospodo, o Danu državnosti Republike Srbije tema kojom se bavimo jeste tema pravne države, slabe, krhke, nedovoljno izgrađene, ali je tema pravne države.
+__label__Negative Iz tog razloga nemojte da krivite tog heroja srpskog naroda koji je tada prvi put izgovorio i smeo da izgovori.
+__label__Positive Demokratska stranka Srbije će ovakav zakon podržati u načelu, ali posle rasprave u pojedinostima odlučićemo da li ćemo podržati zakon u celini.
+__label__Negative On kaže – daj mi, ženiću te, a ona kaže – ništa pre braka.
+__label__Negative Bez obzira na te tri lokacije koje su date, snimanja, bušenja i istraživanja rade se i van te tri lokacije.
+__label__Negative Ja najlepše molim da me obaveste o ovome i koliko može narodni poslanik kao tribun, a koji je položio zakletvu, da li može da daje sugestije i primedbe ovakvim organima?
+__label__Positive Pohvaljujem ono što se tiče odluke šta je osnovni udžbenički komplet.
+__label__Neutral To znači nije bila nikakva velika preša ili gužva da se to uradi tako brzo.
+__label__Neutral U slučaju da banka gde smo deponovali naš novac ode u stečaj u toj situaciji Agencija za osiguranje depozita je dužna da nam isplati osiguranu sumu.
+__label__Neutral To je član koji kaže da samo domaće firme mogu da učestvuju na ovim, ovo nisu tenderi, nego ovim pogodbama koje će se desiti.
+__label__Neutral To može raditi Ministarstvo za rad i socijalnu politiku, to može raditi Komesarijat za izbeglice.
+__label__Neutral Žene su, zašto to kažem, u svakom slučaju, moramo priznati to, bolje od nas muškaraca, da su odgovornije i savesnije.
+__label__Negative On je bio takav što se zaduživao i iz toga isplaćivao plate i penzije.
+__label__Negative Dakle, Martinović može sve u ovom parlamentu da naziva pljačkašima, izdajnicima, barabama, kriminalcima i niko na to ne može da mu odgovori.
+__label__Positive Bez obzira što su oni preminuli, mi vas molimo da njihove akcije naslede njihove porodice.
+__label__Negative Tatjana Macura se bori protiv ukradenih beba, žena koja je takođe kradljivac.
+__label__Negative Prethodni govornik je spomenuo član 32, koji nema nikakve veze sa onim što je govorio.
+__label__Negative Neselektivnim optužbama, izmišljenim aferama, neprincipijelnim informisanjem (Predsednik: Omogućite poslaniku da se obrati.), svim tim pojavama obeshrabruju se pravi borci protiv korupcije, a podstiču onikoji jegenerišu.
+__label__Negative Mislim, na one negativne stvari oko izdavanja zemljišta, gde je došlo i do hapšenja tih ljudi koji su radili te negativne stvari.
+__label__Negative Čini mi se, kolega Novakoviću, ne želim da izazivam repliku, ali da podsetim u čemu je osnovni razlog zašto ne funkcioniše Odbor za privatizaciju.
+__label__Positive Hoću da se zahvalim svim narodnim poslanicima na veoma korektnoj i na veoma ozbiljnoj i odgovornoj diskusiji.
+__label__Positive Manje-više, sve ono što je gospodin Martinović rekao jeste obrazloženje zbog čega bih zamolila sve narodne poslanike da prihvate ovako predloženo autentično tumačenje zakona.
+__label__Negative U setu predloženih vojnih zakona jasno se vidi da DS svesno ispunjava naloge zapadnih sila i da je nosilac projekta slabljenja odbrambene moći i Republike Srbije.
+__label__Negative Ono što je najveći problem, to je što ta poletno-sletna staza nije urađena ni u širini ni u dužini.
+__label__Positive Naš prioritet, u svakom slučaju, jeste da PoštaSrbije, kao jedan veliki sistem, odnosno sistem koji ima najveći broj ispostava u celoj zemlji, bude uspešan i nastavi sa radom.
+__label__Negative Tu su oni s njim i bitno je da vi njih finansirate i o njima dobro da mislite, a ne da mislite o građanima Srbije.
+__label__Negative Možda zbog toga da im neko ne bi pomenuo da je sudija Vrhovnog suda Vučković, koji je uhapšen, izabran za vreme njihovog mandata, i to ga nije birala Skupština.
+__label__Neutral Pravna lica mogu da budu i dobitna i nedobitna organizacija, nevladine organizacije, organizacije u oblasti nauke, književnosti, umetnosti, publicistike, pedagogija, prevodilaštva, sporta.
+__label__Neutral Odredbama ovog zakona skraćuje se period obavljanja objektivne dijagnostike kao bitnog preduslova za uspešno lečenje.
+__label__Negative Zbog toga postoje sivi i crni tokovi novca između privrede i sporta, naravno.
+__label__Positive Pred nama je danas ogromna odgovornost i mislim da je ovo jedna od onih sednica koje čine prekretnicu na putu Srbije ka izgradnji jednog modernog evropskog društva.
+__label__Neutral Kako to reguliše Vlada, kako ona to predlaže, kaže – depozitni poslovi rezidenta u inostranstvu, našeg pravnog i fizičkog lica u inostranstvu.
+__label__Negative Pa ste uveli ovu komunalnu policiju, pa sve to povlači novu administraciju, nove troškove, nove izdatke, a nema novih zapošljavanja, novih radnih mesta.
+__label__Positive Poštovana gospodo, to je rezultat, ja mislim, jednog marljivog posvećenog rada nas narodnih poslanika Nove stranke i opozicije u ovih godinu i devet meseci u ovom sazivu.
+__label__Neutral Lice kome su na osnovu amnestije i pomilovanja ukinute pravne posledice osude, može ostvariti pravo po ovom zakonu najranije od prvog dana narednog meseca posle donošenja akata o amnestiji ili pomilovanju.
+__label__Negative Dakle, nikada nisam pomenuo da su Kinezi robovi, niti da su investitori iz Kine robovi.
+__label__Positive Dame i gospodo narodni poslanici, Srpska napredna stranka podnela je niz amandmana u želji da popravi ovaj Predlog zakona.
+__label__Neutral Čist račun – duga ljubav, da znamo ko vodi ovu državu, ko predlaže ovakve stvari.
+__label__Positive Svoju poziciju oni su ostvarili programima, oblicima rada, bogatim sadržajima koji svojim kvalitetom doprinose razvoju ukupne kulture i umetnosti.
+__label__Negative Da je to tako govori i tragično iskustvo koje imaju Srbi iz BiH, Hrvatske, Makedonije, u poslednje vreme Crne Gore.
+__label__Negative Ti troškovi na ime ukinutih 150 sudova, ne da su smanjeni nego su povećani.
+__label__Negative Mi moramo da nateramo kao zaštitari, da nateramo i da pronađemo ekonomske instrumente da energetici i rudarstvu ne dozvolimo da izrabljuju prirodna bogatstva nego da sve vraćaju u prvobitnu namenu i prvobitan izgled.
+__label__Negative Sve to nema nikakve veze sa jednom nepsornom činjenicom, a to je da su penzioneri tokom svakog meseca važenja privremenog zakona dobijali manje nego što bi dobijali da privremenog zakona nije bilo.
+__label__Neutral Agencija je isplaćivala samo osigurane depozite, a neosigurani su isplaćivani izdavanjem državnih obveznica.
+__label__Neutral Dakle, moje pitanje je – da li srpska Vlada, odnosno Ministarstvo spoljnih poslova, koordinira svoje aktivnosti sa španskom Vladom, gospodinom Rahojom, u svetlu priprema za ovaj sofijski samit?
+__label__Negative Ne smem ni da pomislim koliko je u poslednjih 100 godina, da uzmem taj najdrastičniji primer ugrožavanja bezbednosti, koliko je puta Srbija bombardovana.
+__label__Neutral Ne raspravljamo, a čuli smo malopre, o zakupu.
+__label__Negative Sprovođenje ovog člana zakona odnosi se uglavnom na pevače narodne muzike, zabavne muzike i nije moguće, nije sprovodivo u praksi.
+__label__Negative Danas se to radi znatno kvalitetnije, ali još uvek ne na nivou koji je zahtevan i neophodan, da bi Srbija bila deo demokratskog, civilizovanog i razvijenog društva.
+__label__Neutral Samo jedan podatak: 7% semena suncokreta koje se seje u Evropi potiče iz Instituta u Novom Sadu.
+__label__Positive Želimo da izgradimo društvo u kome će svi građani imati šanse za napredak na društvenoj lestvici.
+__label__Neutral Još jednom ću pročitati, da bi možda još jednom razmislili o tome i prihvatili ovaj amandman.
+__label__Positive Što se tiče cigareta, mi smo ove godine imali značajan boljitak u suzbijanju šverca cigareta.
+__label__Negative U svakom slucaju potrebna je odgovornost, ali nije oportuno da kažnjavanje za prekršaj finansijski ugasi medij koji je kažnjen.
+__label__Negative Imamo jedan problem koji je malo dublji i tražio bih razumevanje ne samo za bivšu Vladu i bivše vlade nego i za buduće vlade.
+__label__Negative Najžešći genetski disbalans, genetske greške proizvedene spoljnom agresijom, ukazale su na pravi haos genetskog materijala, nepojmljivog za ljudsku vrstu.
+__label__Negative Najčešće mi olako prihvatamo rokove, olako ih dajemo, često donosimo zakon sa nekim rokom svesni činjenice da ga nećemo sigurno ispoštovati.
+__label__Neutral To je deo zakona od člana 34. do 40. i nešto.
+__label__Neutral Evo, reći ću vam konkretan primer: Žunić Savo je gospodin koga su svi...
+__label__Neutral Ali, bez obzira na sve, smatram da je ovo pitanje veoma važno i da o njemu treba govoriti, a tiče se obezbeđenja dostupnosti usluga zdravstvene zaštite osobama sa invaliditetom.
+__label__Positive Ja bih razumeo da ste vi predložili istaknutog člana DRI, da kažete to je čovek od integriteta, stručan, dobar, imaće i snage i hrabrosti i životnog iskustva da se suprotstavi.
+__label__Negative Kakva se to teroristicka organizacije razvila kad je 40% ljudi za SPS?
+__label__Negative Mi smo u oktobru mesecu podneli predlog za razrešenje predsednika Skupštine Dragana Maršićanina, ali mi smo zaista obrazložili zašto Dragan Maršićanin ne može, po nama, više da bude predsednik Narodne skupštine.
+__label__Negative Ali, još uvek smatram da, ukoliko ne bismo uspeli da rešimo ovo pitanje, da pod znacima nelojalna konkurencija bi uništila naše poljoprivredne proizvođače.
+__label__Negative Ako mi neko kaže da je to samo posledica toga što su se dve velike sile sukobile oko jednog pitanja koje im služi za njihovo potkusurivanje, sa tim se ne mogu nikako složiti.
+__label__Negative Setite se 2008. godine i 30 miliona evra koji su potrošeni u izbornoj kampanji u Kragujevcu i svega onog što se u međuvremenu desilo.
+__label__Neutral Ćelije i tkiva, transplantira se danas kod dece na Institutu za majku i dete, kod odraslih na Kliničkom centru i VMA.
+__label__Negative Na primer, kod mene u Nišu, vrh vladajuće partije koja vodi ovu zemlju je iz Niša gde je ogroman broj nezaposlenih i nezadovoljnih građana.
+__label__Neutral Pomenuo sam EPS, zatim Poštu, NIS, „Srbijagas“ itd.
+__label__Negative Spasite nas tih stručnjaka koje smo šest meseci čekali, a koji za 90 dana plan reorganizacije jednog velikog preduzeća nisu u stanju da urade.
+__label__Negative Srbija ide u svetlu budućnost povijene kičme, neuspravnog hoda.
+__label__Negative Da bi stečajna masa podigla svoj potencijal, jer ne samo da ću se naplatiti ja, nego i ostali poverioci zajedno sa mnom kojima se takođe duguje.
+__label__Negative To je kao da u jednom fudbalskom timu imate poziciju centarfora i sad dodajete još centralnog napadača.
+__label__Negative Neko je uložio 300 miliona evra i vi kroz pravo na suđenje u razumnom roku obeštetite investitora za 300 evra ili 3.000, svejedno.
+__label__Negative Ne znam zbog čega ste potpredsednice Vlade, uvažena ministarko, odbili ovaj amandman.
+__label__Negative U Srbiji živi skoro 300.000 izbeglica i interno raseljenih, što je najviše u zemljama EU.
+__label__Neutral Samo trenutak, vratiću vam vreme, kako ne biste izgubili vreme.
+__label__Neutral Ako predlog nije usvojen, mora da se zna koliko je poslanika u sali.
+__label__Neutral Republici Srbiji pripada 95% objekata, 95% objekata su imovina Republike Srbije.
+__label__Neutral Protiv nove presude prvostepenog suda, kojom je potvrđena ili preinačena ranija presuda, može se izjaviti žalba.
+__label__Negative Tako da ćete se složiti da dolazak „Behtela“ nije nešto što je eto tek tako, pozvali smo ih, pa hajde dođite.
+__label__Neutral Dakle, nije reč o tome da treba da budu završeni neki delovi, pa da se izda upotrebna dozvola.
+__label__Neutral Zakon je donet 2005. godine, a posle pristupanja Bolonjskoj deklaraciji.
+__label__Neutral Koliko iz stečajne mase treba da bude sada izuzeto i, kako ovde u pravilniku kaže, da se nagradi stečajni upravnik?
+__label__Neutral Predloga zakona predviđeno je takođe da će se novčanom kaznom od pet hiljada do 400 hiljada dinara kazniti za prekršaj podnosilac prijave i navode se razlozi zbog kojih će se ta kazna izreći.
+__label__Negative Rekli ste – ako Tomislav Nikolić pobedi, biće sankcije i izolacije zato što on neće priznati nezavisnost Kosova i Metohije.
+__label__Positive Ovakvo preusmeravanje kulturne orijentacije društva je od suštinske važnosti za dugoročan uravnotežen razvoj Srbije i ima veliki obrazovni i vaspitni potencijal za mlade.
+__label__Negative Takođe je bio veoma blizak saradnik direktora Omladinskog kampa "Karataš" na Đerdapu, koji je bio uhapšen posle 5. oktobra i proveo pet ili šest meseci, izvesni Šime.
+__label__Neutral Onda stav 6. koji kaže: "Rok iz stava 5. ovog člana ne može biti duži od pet godina".
+__label__Neutral Kada su tenderi međunarodnih banaka mi tu ne možemo da utičemo nikako.
+__label__Positive Promenićemo obračun otpremnina, pojednostavićemo prekid radnog odnosa i navesti uslove pod kojima je moguće dati otkaz.
+__label__Neutral Tri najveća preduzeća u Srbiji po profitu koji ostvaruju ili po prometu su NIS, Srbijagas i Telekom.
+__label__Positive Sa jedne strane, rešavamo stambeno nezbrinute pripadnike službi bezbednosti, a sa druge strane postižemo ekonomske ciljeve.
+__label__Neutral Vi ste ovde, kako piše, predvideli da može da se obavlja dopunski rad na više mesta.
+__label__Negative Taj koji vam daje pet milijardi dolara pod svojim uslovima, on vam sigurno to ne daje na lepe oči.
+__label__Negative Gospođice draga, ako ste vi spremni da me opominjete na vreme sa mesta, vi slobodno izađite, izašlo je više od pola poslanika DS-a.
+__label__Neutral Država Srbija ima definisane i međunarodno priznate granice prema svojim susedima.
+__label__Negative Ako je to neko novo pravilo koje ste formulisali danas ili juče, obavestite nas, pa ćemo da vas pitamo.
+__label__Negative Zašto nisu u zatvoru ti ljudi koji su optuženi za kriminal, evo, prvi gospodin Bogdanović?
+__label__Negative Gospodine Novakoviću, vi ste to pogrešno protumačili, nisam konfliktna osoba.
+__label__Negative Bogoljub Karić je direktno prenosio hapšenje Miloševića pod kajronom "poslednji čin".
+__label__Negative To su ljudi koji će prinudno, prisilno, biti dovedeni u Srbiju i to će za njih biti svojevrsni koncentracioni logor u kome će oni morati da žive.
+__label__Neutral Drugo, u gotovo svim republičkim javnim preduzećima je još uvek u toku javni konkurs tamo gde je raspisan.
+__label__Neutral Ono što smo čuli danas, pre svega od vas, gospodine ministre, jeste da je Kovnica novca izradila milion i 200 tih kartica.
+__label__Negative Dosadašnja rešenja, moramo priznati da su anahrona, prevaziđena i ona su jedan od razloga našeg ne efikasnog pravosuđa.
+__label__Neutral Ove amandmane koje smo podneli radili smo u saradnji sa Savetom za urbanizam, kulturu i građevinarstvo SPS-a.
+__label__Neutral To vam je lokalna samouprava, gospodo, iz vlasti.
+__label__Neutral Ovo je, takođe, zahtevan posao, posao koji košta poprilično.
+__label__Negative Međutim, mislim da to nije bilo uverljivo i da pažljivim čitanjem i tumačenjem člana 8. ovog zakona dolazimo do zaključaka da je predložena obaveznost članstva.
+__label__Negative Do sada imamo potvrđeno hapšenje 23 lica srpske nacionalnosti, srpske i bošnjačke nacionalnosti na teritoriji tri opštine Kosovska Mitrovica, Leposavić, Zubin Potok, dakle na teritoriji celog Kosova i Metohije.
+__label__Neutral Da li postoji možda i nezadovoljstvo kod jednog dela naših članova?
+__label__Neutral U prvom stavu se kaže – poslovi reosiguranja su zaključivanje i izvršavanje ugovora o reosiguranju kojim se osigurani višak rizika iznad samopridržaja društva za osiguranje prenosi u reosiguranje.
+__label__Negative Dugo smo čekali da ovaj zakon konačno uđe u proceduru, nekih šest godina i različite verzije.
+__label__Negative Ne znam još nikoga ko je na vlasti a ko ne želi da plati nešto, ko želi da smanjuje plate i penzije i raduje se tome.
+__label__Neutral Dame i gospodo narodni poslanici, nekad srećni dobitnici budu i nesrećni gubitnici.
+__label__Negative Ministre, vi uvek pokazujete neki optimizam, pa tako imamo završen koridor, mnoge asfaltirane kilometre i mnogo štošta od toga.
+__label__Negative Pitam gde je ova razlika i zašto se nastavlja pljačka građana?
+__label__Neutral Postavlja se prvo pitanje – da li narodni poslanici poznaju nekoga od ovih ljudi za koje će glasati?
+__label__Negative To je saopštenje iz 1995. godine, pa za gospodina u pelenama, samo da ga podsetim.
+__label__Neutral To moramo jednom da raščistimo i da otvoreno u lice kažemo.
+__label__Positive Očekujemo da će, zahvaljujući uređenom sistemu, usaglašenim pravnim regulativama sa najvišim standardima međunarodnim, to u stvari biti i podsticaj velikih industrija, privrednih subjekata iz inostranstva upravo ovde da ulažu.
+__label__Negative Da li je moguće da ovo smatrate nekim blažim prekršajem?
+__label__Negative Kada se tome doda i činjenica da se godišnje uradi oko 17.000 prekida trudnoće, to dođe da na svaku rođenu bebu imamo tri prekida trudnoće, što ide u prilog antinatalitetnoj populacionoj politici.
+__label__Neutral Povoljniji je trenutak zato što je Vlada napravila takvo i međunarodno i političko okruženje i veći integritet i veći uticaj Vlade.
+__label__Negative Kad država bude ušla u suštinu rešavanja problema onih sitnih koji u stvari kvare čitav sistem, onda možemo da očekujemo da će Srbija da krene napred pravim putem.
+__label__Neutral Naime, dva člana Odbora za finansije iz reda DSS, gospodin Prodanović i gospodin Ilić, nisu više članovi Odbora za finansije.
+__label__Negative Htela bih da kažem da nisam u potpunosti zadovoljna onim što je gospodin ministar rekao.
+__label__Neutral Ugovor o zakupu iz stava 3. ovog člana mora biti overen kod organa nadležnog za overu ako je jedna od ugovornih strana fizičko lice.
+__label__Positive Naprotiv, Srbija je i pohvaljena i kroz delovanje njenih bezbednosnih organa, deo je koalicije koja se bori protiv terorizma širom sveta.
+__label__Negative Samo držite to, ako vas ne boli ruka, obucite one rukavice od 30.000 dinara i držite to, pokažite vaš očajnički pokušaj da se odbranite od istine.
+__label__Negative Osim što ćemo ih terati da plaćaju zamenu ovih pasoša, da li će morati da stoje u beskonačnim redovima i čekati 30 dana da zamene svoj pasoš?
+__label__Negative Dakle, firma koja u 2010. godini, u godini u kojoj dobija ugovor za izgradnju stanova, u blokadi 162 dana, potpisuje ugovor sa Građevinskom direkcijom Srbije.
+__label__Negative Dame i gospodo poslanici, kao što vidite, DS se sekira što je propao jedan dan, ali se ne sekira što je prošlo sedam godina njihovog mafijaškog rada.
+__label__Negative Poštovani poslanici, čini mi se da smo krenuli nekim malo pogrešnim putem.
+__label__Neutral Uslov za priznanje svojstva mirnodopskog vojnog invalida po osnovu rane povrede ili ozlede je oštećenje organizma mora biti najmanje 20%, a po osnovu bolesti najmanje 60%.
+__label__Negative Zoran Živković je imao hrabrosti da kaže Karli del Ponte - ja neću optužnice da primam, ja sam predsednik Vlade, dajte ih nekom drugom.
+__label__Neutral Gde je taj reciklažni centar u Subotici koji ste rekli da postoji?
+__label__Negative To vi možete silom, šta god hoćete, ali nećete dokle vi mislite.
+__label__Neutral Članovi ѕdžc-“Otopra“ su se uvek vraćali, kaže: "sa novim praktičnim znanjem, opremom i torbama punih para".
+__label__Positive Jako lepo pripremamo našu domaću poljoprivredu za ulazak u EU.
+__label__Negative Svakako da se Čeda Jovanović sreo sa Tačijem, Beograd bi goreo, a kad se vi sretnete sa Tačijem, mir i tišina.
+__label__Negative Ne smemo dozvoliti da pobedi politika samooptuživanja i samoproklamovanja one politike koja o zločinima nad srpskim narodom večitom postavlja pitanje – gde je tu naša krivica.
+__label__Negative Kako to građanima da se objasni da, kao što se u ovim novinama od žrtve pravi zlikovac, a od napadača se pravi žrtva, toj manipulaciji smo svi mi izloženi iz SRS.
+__label__Negative Nije dovoljno staviti nekome sablju u ruku i organizovati tragičan ceremonijal u centru grada, paradu kada mesta paradi nema, proslave kada proslavama mesta nema.
+__label__Negative Divlji sirak, kao deo korovske flore, razvio se danas u najmoćniju i najopasniju korovsku biljku.
+__label__Negative Ovde se ništa reformisalo nije, ovde se priča o reformama, a bogami, događaju se krupni skandali.
+__label__Neutral Nisu samo usko specijalizovni, ne rade smo krivične stvari ili iz oblasti civilistike, oni rade i zastupaju građane pred nadležnim sudovima iz svih oblasti i grana prava.
+__label__Neutral Obećanja su išla u pravcu zalaganja Vlade pred Savetom bezbednosti UN da se donese odluka da se svim Srbima osuđenim u Hagu omogući da izdržavaju izrečenu kaznu u Srbiji.
+__label__Negative Tu je i pitanje koje je postavljeno- da li je moguće da je naša Srbija toliko nesvesna da treba stalno neko drugi da nam govori šta treba da se radi, a šta ne.
+__label__Negative Ti ljudi nisu bili pripadnici srpske vojske, prije nego što su ubijeni nisu počinili nikakav zločin, nisu imali oružje i uniformu.
+__label__Negative Takva vrsta dezinformisanja javnosti zagađuje možda na opasniji način našu Drinu nego ova tema o kojoj govorimo.
+__label__Negative To je nedopustivo za zemlju koja želi da zadrži mlade, obrazovane ljude da se ovde dalje školuju i ovakva politika će dovesti, kako do urušavanja poljoprivredne proizvodnje, tako i naučnoistraživačkog rada.
+__label__Neutral Pa, valjda je svako onaj ko podnese prijavu dužan po zakonu da navede verodostojne podatke.
+__label__Negative Što se šalje poruka da, kada predsednik polaže zakletvu se brutalno, fizički napadaju novinarke, novinari, fotoreporteri.
+__label__Negative Danas ćete da vidite kakav je to lažov i kakvi su to lažovi.
+__label__Negative Bili smo u situaciji ko zna koliko puta da se time manipuliše prilikom otkaza, da se kasnije utvrđuje ili smanjuje i umanjuje.
+__label__Positive Kada se radi o zapošljavanju, zakonom više nije obavezno da se raspisuju konkursi za upražnjena radna mesta, jer je naša želja bila da podstaknemo što brže zapošljavanje.
+__label__Neutral Izađe žena, predstavi se da je nešto u finansijama.
+__label__Neutral Ako imamo jasan stav privrednika kao deo naše prakse, poštovana gospodo, koju je evidentirala Vlada Republike Srbije, šta onda mi treba da radimo?
+__label__Negative Sada sa ovim izmenama koje su isključivo političke, vi dodatno dajete jedan udarac na srpski jezik.
+__label__Negative Vi sada hoćete da obrišete ovo – namerno ili iz nepažnje iz meni potpuno nepoznatih razloga.
+__label__Negative On je organ progona i on želi da pobedi u toj areni i u tom dvoboju.
+__label__Negative Opet ću ponoviti – nema ništa loše u tome, loše što se godinama nisu podnosili izveštaji ovog tipa.
+__label__Negative Da je ravnogorska ideja pobedila 1945. godine, danas bi se slavio 27. mart 1941. godine kao veliki antifašistički praznik.
+__label__Positive Izmena ovog zakona biće jedan korak da se to nasilje spreči jer će omogućiti da pravosudni organi, prvenstveno sudovi, efikasnije deluju i da dođe do nesmetanog vođenja krivičnog postupka.
+__label__Positive Neću govoriti sve unazad i do mojih autora, koji su verovatno već pokojni, ali ćemo govoriti o nekoj novoj stranici kako ćemo mi to probati da uradimo.
+__label__Negative Toliko košta autoput Horgoš-Požega, kompletno. (Predsednik: Vreme.) Ko vam je dao nalog da trošite te pare?
+__label__Negative Od privedenih izgrednika negde oko 10-15% bude zaista sankcionisano.
+__label__Negative Kako je bilo moguće doći do ovakvih sistemskih rešenja, koja će osloboditi dugova, pre svega, zdravstvo Srbije?
+__label__Positive Tri godine posle početka primene Zakona o oduzimanju imovine stečene krivičnim delima, pokazalo se da je to jedan od najefikasnijih zakona u Srbiji.
+__label__Neutral Molim vas da imate to na umu, pa da se razmisli o tome.
+__label__Negative Dobili smo mi u parlamentu ovde i profesionalne mahače papirima, ali jedino besmislenije od toga je odgovarati na besmislene optužbe i navode.
+__label__Negative Nenamensko trošenje sredstava na lokalnom nivou kritikuje predsednik SNS, zaboravljajući da većinu gradova i opština u Srbiji vode upravo kadrovi SNS.
+__label__Positive To jasno pokazuje da smo pokazali i spremnost da stalno unapredujemo pitanja u ovoj oblasti.
+__label__Neutral Kaže – jedinice lokalne samouprave mogu na zahtev ulagača da za određena ulaganja od lokalnog značaja obrazuju projektni tim kojim rukovodi lice koje odrede jedinice lokalne samouprave itd.
+__label__Negative Sad je Kosovo preuzeo Euleks, pa i taj argument otpada, ali ja postavljam ovako – na sve što je zahtevala srpska strana, Rusi su rekli –ne.
+__label__Neutral Ukoliko su kasnije promene povoljnije, a ne postoji osuđujuća pravosnažna presuda, onda se prilikom izricanja kazne, znači utvrđivanja mere, koristi ono što je povoljnije za optuženog, odnosno za osuđenog.
+__label__Negative U vreme akcije "Sablja" i međunarodne organizacije su imale prilike da se uvere da osuđena lica u zatvorima borave u apsolutno neprihvatljivim uslovima.
+__label__Negative Takođe, verovatno su svi roditelji u Srbiji zainteresovani zašto je mreža dilovanja droge u Srbiji stavljena na noge, ako se borba sa organizovanim kriminalom uspešno završila.
+__label__Negative Tragična sudbina, tuga, bol, nemaština traži opreznost, ozbiljnost i političku zrelost.
+__label__Neutral U tekstu se kaže – "Neka zemlja može zabraniti GMO, ali tek ako postoje naučni dokazi da je genetska modifikacija loša, a takvi dokazi za sada ne postoje".
+__label__Neutral Svi ovi tzv. veliki poreski obveznici završavaju posao u višim sudovima, a ne u nižim sudovima.
+__label__Negative Je lÄ tako, Čedo? (Žagor.) Prema tome, ovde nije reč o nečem drugom.
+__label__Neutral To ste vi ovde rekli, IOP, predvideli da svako napreduje prema svojim mogućnostima.
+__label__Negative Buduće počinioce morali bismo obeshrabriti tretiranjem ovog dela ne kao prekršaja, nego kao krivičnog dela.
+__label__Negative Gde ste bili, draga gospodo, u proteklih 10 godina, kako to da se niste brinuli onda kada su radnici u ovoj zemlji primali jednu marku kao platu.
+__label__Negative Jedan sindikat od tri sindikalne centrale u ovoj zemlji je vodio te proteste, ili preciznije rečeno - vrh tog sindikata.
+__label__Negative Što je još gore traži retroaktivno, za2008, 2009, 2010. godinu.
+__label__Neutral Prvi deo, garancije koje će da izda Republika Srbija.
+__label__Negative Zato kažem, ceo koncept zakona je po meni pogrešan i neprimenjiv.
+__label__Negative Obećavam, ove pretnje predsedniku Republike, odnosno njegovoj deci, monstruozne pretnje, ovo što je izrečeno i protiv njegovog sina i ćerke, apsolutno ćemo dovesti do kraja.
+__label__Negative Pa nećete, kolege profesori, pa znate, verovati valjda Radi Trajković, saradnici Bernarda Kušnera i nikada šiptarskim teroristima nije rekla da su teroristi.
+__label__Negative Mi smo, između ostalog, zamerili predsedniku Republike Borisu Tadiću što on na svojoj listi nema pripadnike nacionalnih manjina.
+__label__Negative Ali, reći za jednu poslaničku grupu da je pljuvačka mašina i da vi na to ne reagujete zaista je neverovatno.
+__label__Negative Jedan i drugi su neprihvatljivi su za SRS, po više osnova i probaću u nekoliko rečenica u jednom i drugom zakonu da ukažem na promašenost oba zakona.

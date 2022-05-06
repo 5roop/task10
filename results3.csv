@@ -1,12 +1,4 @@
 model_name,model_type,epochs,batch_size,macroF1
-xlm-roberta-base,xlmroberta,3,8,0.7791203782243402
-xlm-roberta-large,xlmroberta,3,8,0.8232523366330771
-EMBEDDIA/crosloengual-bert,bert,3,8,0.7994590939824205
-classla/bcms-bertic,electra,3,8,0.8137590595217713
-xlm-roberta-base,xlmroberta,3,16,0.7645765494976482
-xlm-roberta-base,xlmroberta,3,8,0.778123841305154
-xlm-roberta-base,xlmroberta,3,8,0.8038795585965396
-xlm-roberta-large,xlmroberta,3,8,0.795502289924333
 xlm-roberta-base,xlmroberta,3,8,0.8051954529584336
 xlm-roberta-base,xlmroberta,3,8,0.8002658160552899
 EMBEDDIA/crosloengual-bert,bert,3,8,0.8194737757250102
@@ -21,3 +13,14 @@ classla/bcms-bertic,electra,9,8,0.831111111111111
 EMBEDDIA/crosloengual-bert,bert,15,8,0.8481553795460591
 xlm-roberta-base,xlmroberta,15,8,0.8236300038865139
 classla/bcms-bertic,electra,15,8,0.8233375444471854
+EMBEDDIA/crosloengual-bert,bert,23,8,0.834564810468425
+xlm-roberta-base,xlmroberta,23,8,0.8103531332324079
+classla/bcms-bertic,electra,23,8,0.8261305024017639
+EMBEDDIA/crosloengual-bert,bert,33,8,0.8212018837018836
+xlm-roberta-base,xlmroberta,33,8,0.7801787796346678
+classla/bcms-bertic,electra,33,8,0.8425700862786956
+classla/bcms-bertic,electra,45,8,0.8657994736406746
+classla/bcms-bertic,electra,50,8,0.8166729621515448
+classla/bcms-bertic,electra,4,8,0.836480870994562
+classla/bcms-bertic,electra,5,8,0.8116216670433539
+classla/bcms-bertic,electra,6,8,0.8421996478532074

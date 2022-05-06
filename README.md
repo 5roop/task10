@@ -38,3 +38,13 @@ Supposedly optimal hyperparameters:
 | classla/bcms-bertic        | electra      |       15 |            8 |  0.856857 |
 | xlm-roberta-base           | xlmroberta   |       15 |            8 |  0.82363  |
 
+
+
+# Addendum 2022-05-05T08:15:42
+
+Performance on test data: 
+| model_name                 | macroF1                           |
+|:---------------------------|:----------------------------------|
+| classla/bcms-bertic        | 0.7925 +/- 0.0126, sample size: 6 |
+| EMBEDDIA/crosloengual-bert | 0.7683 +/- 0.0066, sample size: 6 |
+| xlm-roberta-base           | 0.7620 +/- 0.0108, sample size: 6 |

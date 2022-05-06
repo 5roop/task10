@@ -48,3 +48,22 @@ Performance on test data:
 | classla/bcms-bertic        | 0.7925 +/- 0.0126, sample size: 6 |
 | EMBEDDIA/crosloengual-bert | 0.7683 +/- 0.0066, sample size: 6 |
 | xlm-roberta-base           | 0.7620 +/- 0.0108, sample size: 6 |
+
+# Addendum 2022-05-06T08:58:16
+
+New hyperparams: go forward with 9 epochs. Repeat sweep for cse bert. 
+
+# Addendum 2022-05-06T13:01:18
+
+Bertic trained. Results:
+
+|                                                  | ('macroF1', 'macroF1_stats')   |   ('macroF1', 'len') |
+|:-------------------------------------------------|:-------------------------------|---------------------:|
+| ('classla/bcms-bertic', 'train', 'test')         | 0.7837 ± 0.0125                |                    6 |
+| ('classla/bcms-bertic', 'train', 'test_HR')      | 0.8143 ± 0.0148                |                    6 |
+| ('classla/bcms-bertic', 'train', 'test_SRB')     | 0.7380 ± 0.0201                |                    6 |
+| ('classla/bcms-bertic', 'train_HR', 'test_HR')   | 0.8020 ± 0.0103                |                    6 |
+| ('classla/bcms-bertic', 'train_HR', 'test_SRB')  | 0.7495 ± 0.0250                |                    6 |
+| ('classla/bcms-bertic', 'train_SRB', 'test_HR')  | 0.8247 ± 0.0155                |                    6 |
+| ('classla/bcms-bertic', 'train_SRB', 'test_SRB') | 0.7553 ± 0.0128                |                    6 |
+

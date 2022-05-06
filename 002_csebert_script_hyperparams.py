@@ -68,13 +68,14 @@ for i in range(3):
         for batch in [8]:
             for modeltype, modelname in zip(
                 [ 
-                    # "bert", 
+                    "bert", 
                 #"xlmroberta", 
-                "electra"],
+                # "electra"
+                ],
                 [
-                    # "EMBEDDIA/crosloengual-bert",
+                    "EMBEDDIA/crosloengual-bert",
                     #"xlm-roberta-base",
-                    "classla/bcms-bertic",
+                    # "classla/bcms-bertic",
                 ],
             ):
                 print(f"training {modelname},{modeltype},{epoch}")
@@ -84,13 +85,16 @@ for i in range(3):
                 stats = eval_model(model, dev)
                 stats["eval_split"] = "dev"
                 stats["model_name"] = modelname
-                with open("002_results_dev_test.csv", "a") as f:
+                stats["epoch"] = epoch
+                filename = "002_results_dev_test_csebert.jsonl"
+                with open(filename, "a") as f:
                     f.write(f"{stats}\n")
 
                 stats = eval_model(model, test)
                 stats["eval_split"] = "test"
                 stats["model_name"] = modelname
-                with open("002_2_results_dev_test.csv", "a") as f:
+                stats["epoch"] = epoch
+                with open(filename, "a") as f:
                     f.write(f"{stats}\n")
                 del model
 

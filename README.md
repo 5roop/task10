@@ -67,3 +67,13 @@ Bertic trained. Results:
 | ('classla/bcms-bertic', 'train_SRB', 'test_HR')  | 0.8247 ± 0.0155                |                    6 |
 | ('classla/bcms-bertic', 'train_SRB', 'test_SRB') | 0.7553 ± 0.0128                |                    6 |
 
+
+
+# Meeting notes 2022-05-09T14:11:16
+
+TO DO:
+* ✓ Add HR,SRB matrix for CSE Bert
+* ✓ Add fastext with embeddings to table 1 (model comparison on train-test)
+* ✓ Drop fasttext matrices. 
+* Add dataset creation procedure in bullets.
+

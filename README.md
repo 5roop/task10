@@ -77,3 +77,9 @@ TO DO:
 * ✓ Drop fasttext matrices. 
 * Add dataset creation procedure in bullets.
 
+
+
+# Meeting notes: 2022-05-17T15:50:43
+
+* Resplit, stratify by country. ✓
+* Retrain.

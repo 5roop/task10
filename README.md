@@ -83,3 +83,19 @@ TO DO:
 
 * Resplit, stratify by country. ✓
 * Retrain. - will after GPU is free.
+
+
+# Meeting notes 2022-05-19T11:28:15
+
+Figure 1: Best  bertic CM - replace with average performance. Title to be changed to sth like 'row normalized Bertic performance'
+Replace the tables and figures to represent the new data results.
+
+Binary experiments: Negative vs. Other
+Just overall results: no interparliamentary results.
+Confusion matrices.
+
+For labelset in {full, binary}:
+    train on full train
+    evaluate on {full, HR, BiH, SRB}{dev,test}
+
+expected table: check overleaf

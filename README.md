@@ -96,6 +96,6 @@ Confusion matrices.
 
 For labelset in {full, binary}:
     train on full train
-    evaluate on {full, HR, BiH, SRB}{dev,test}
+    evaluate on {full, HR, BiH, SRB}{test}
 
 expected table: check overleaf

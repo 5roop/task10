@@ -99,3 +99,7 @@ For labelset in {full, binary}:
     evaluate on {full, HR, BiH, SRB}{test}
 
 expected table: check overleaf
+
+
+# Addendum 2022-05-27T15:32:35
+TO DO: replot confusion matrices with raw numbers, keep the old available

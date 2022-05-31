@@ -95,4 +95,5 @@ results/
 cache_dir/
 runs/
 outputs/
+models/
 fasttext_embeddings/

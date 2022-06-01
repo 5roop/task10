@@ -37,6 +37,7 @@ def train_model(train_df, model_name, output_dir):
         "use_multiprocessing_for_evaluation": False,
         "use_multiprocessing": False,
         "use_cuda": True,
+        "save_every_epoch": False,
         # "train_batch_size": 8, 
         # "no_cache": True,
         "output_dir": output_dir,
@@ -76,11 +77,13 @@ for i in range(10):
     model = train_model(train, "classla/bcms-bertic", str(ternary_path))
     current_f1 = eval_model(model, test)["macroF1"]
     print(f"{current_f1=}")
+    import os
     if current_f1 > best_f1:
         shutil.rmtree(str(ternary_best_path))
+        os.system("rm -r  ternary_best/checkpoint-*-{1,2,3,4,5,6,7,8} binary_best/checkpoint-*-{1,2,3,4,5,6,7,8} binary/checkpoint-*-{1,2,3,4,5,6,7,8} ternary/checkpoint-*-{1,2,3,4,5,6,7,8}")
         shutil.copytree(str(ternary_path), str(ternary_best_path))
-        shutil.rmtree(str(ternary_path))
         best_f1 = current_f1
+    shutil.rmtree(str(ternary_path))
 
 # %%
 

@@ -103,3 +103,18 @@ expected table: check overleaf
 
 # Addendum 2022-05-27T15:32:35
 TO DO: replot confusion matrices with raw numbers, keep the old available
+
+# Addendum 2022-05-31T09:55:35
+
+When trying to train and save Bertic models on ternary and binary full data, I noticed that the F1 is terrible (was 0.8, now 0.15). I have yet to debug this issue. So far I've tried removing the cache, next step will be downgrading the dataset to `bcs_polsent.jsonl`.
+
+None of that worked. I'll try downgrading the simpletransformers.
+
+
+# Addendum 2022-06-01T08:31:11
+None of the above worked. After updating, the training just takes forever, I'm not sure anything is happening. The `ps` command shows the processes have been running for 9 seconds, regardless of when we run it. No output is produced in output directories, suggesting that the model doesn't start training.
+
+
+
+# Addendum 2022-06-01T09:13:57
+I fiddled with the model args a bit. I don't know what I did, but I managed to fix it. For my troubles the universe also fixed evaluation speeds for me, now they are super fast. 

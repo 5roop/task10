@@ -118,3 +118,10 @@ None of the above worked. After updating, the training just takes forever, I'm n
 
 # Addendum 2022-06-01T09:13:57
 I fiddled with the model args a bit. I don't know what I did, but I managed to fix it. For my troubles the universe also fixed evaluation speeds for me, now they are super fast. 
+
+# Addendum 2022-06-02T07:11:51
+The models are published on huggingface under the same urls as in the paper: [ternary](https://huggingface.co/classla/bcms-bertic-parlasent-bcs-ter) and [binary](https://huggingface.co/classla/bcms-bertic-parlasent-bcs-bi)
+
+# Addendum 2022-06-06T13:05:16
+
+The paper is submitted, and also available on arxiv. The next step is to prepare the dataset for publication in a way that corresponds to the setup described in the paper.
